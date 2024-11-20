@@ -1,0 +1,21 @@
+Per fare una corretta installazione del firmware seguire scrupolosamente le seguenti indicazioni :
+
+1- INSTALLARE IL NUOVO FIRMWARE
+
+2- EFFETTUARE SUBITO UN RESET ALL ( NON VFO )
+
+3- LEGGERE DA CHIRP LA RADIO ( questo file servira' come base per la configurazione )
+
+4- EFFETTUARE LE MODIFICHE DA CHIRP E COME PRIMA COSA INSERIRE I NOMI DEI GRUPPI
+
+5- EFFETTUARE ADESSO IL COPIA E INCOLLA DELLE MEMORIE DA UN FILE PRECEDENTE
+
+6- SALVARE IL TUTTO SULLA RADIO
+
+se si segue alla lettera questa sequenza senza improvvisazioni funzionera' tutto senza nessun problema.
+
+questo firmware non e' compatibile con nessun'altro quindi non si puo' passare allegramente tra le varie versioni 
+senza avere poi problemi. 
+
+stessa cosa con i file .img di chirp non usate mai direttamente uno creato con le versioni precedenti, 
+ma sempre con la tecnica del copia e incolla su quello nuovo.

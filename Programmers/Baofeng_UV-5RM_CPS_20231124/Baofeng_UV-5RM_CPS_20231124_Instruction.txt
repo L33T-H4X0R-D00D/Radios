@@ -1,0 +1,23 @@
+This T6UV Series CN CPS is suitable for the following models:
+UV-17M/UV-17L
+UV-18M/UV-18L
+UV-19M/UV-19L
+UV-20M/UV-20L
+UV-21M/UV-21L
+UV-22M/UV-22L
+UV-25M/UV-25L
+UV-26M/UV-26L
+UV-27M/UV-27L
+UV-28M/UV-28L
+UV-1701M/UV-1701L
+UV-1702M/UV-1702L
+UV-1706M/UV-1706L
+UV-1802M/UV-1802L
+UV-1801M/UV-1801L
+
+
+The above product range has the following menu:
+M version working frequency band: AM108-136; VHF136-174/220-260; UHF350-390/400-520MHz
+L version working frequency band: VHF136-174/220-260; UHF400-520MHz
+
+Recommended operation: Select to read the intercom data, modify the frequency and subtone, and then write the data.
