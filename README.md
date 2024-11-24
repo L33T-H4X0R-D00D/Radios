@@ -34,37 +34,37 @@ Short description.
 
 **Type**: SOC or Super Heterodyne
 
-**Menu** -
-**U/D** -
-**Exit** -
-**Change memory/frequency** -
-**Change selected VFO** -
-**Change TX power** - 
-**Scan** -
-**Squelch** -
-**Monitor** -
-**Search for frequency** -
-**Manual dial new talk group** -
+**Menu** -  
+**U/D** -  
+**Exit** -  
+**Change memory/frequency** -  
+**Change selected VFO** -  
+**Change TX power** -  
+**Scan** -  
+**Squelch** -  
+**Monitor** -  
+**Search for frequency** -  
+**Manual dial new talk group** -  
 
 
 
 Additional hotkeys.
-**NOAA hotkey** -
-**Battery voltage** -
-**Hardware and firmware information** -
-**Change theme** -
-**Change theme color** -
-**Menu for manipulating current channe**l -
-**Display frequency information for channel** -
-**Change modulation** -
-**High vis channel/VFO** -
+**NOAA hotkey** -  
+**Battery voltage** -  
+**Hardware and firmware information** -  
+**Change theme** -  
+**Change theme color** -  
+**Menu for manipulating current channe**l -  
+**Display frequency information for channel** -  
+**Change modulation** -  
+**High vis channel/VFO** -  
 
 
-**Unlock procedure** -
+**Unlock procedure** -  
 
-**Program with Chirp Next** - 
+**Program with Chirp Next** -  
 
-**Prepare to write firmware** - 
+**Prepare to write firmware** -  
 ***
 
 
