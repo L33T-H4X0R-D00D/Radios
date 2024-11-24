@@ -61,5 +61,5 @@ Unlock procedure -
 Program with Chirp Next - 
 
 Prepare to write firmware - 
----
+***
 
