@@ -2,22 +2,17 @@ A brute of a radio with huge output. Must be programmed with the Leixen tool.  N
 
 
 
-
 Type: SOC
 
 Menu - Menu button.
 U/D - Up and down arrows.
-Exit - Exit button.
-Change memory/frequency - VFO/MR button.
-Change selected VFO - Short press Exit button.
+Exit - Exit-A/B button.
+Change memory/frequency - #-V/M button.
+Change selected VFO - Exit button.
 Change TX power - Long press 2-H/L button. 
 Scan - Long press Exit button.
 Squelch - Long press 1-SQL button.
 Monitor - Unknown.
-
-
-
-
 
 
 

@@ -2,26 +2,22 @@ UV-5R with increased filtering and 3 band upgrade.
 
 
 
-
-
 Type: SOC
 
-Manu - Menu button.
+Menu - Menu button.
 U/D - Up and down arrows.
 Exit - Exit button.
 Change memory/frequency - VFO/MR button.
 Change selected VFO - A/B button.
-Change TX power - Menu, then 2. 
+Change TX power - Menu item 2. 
 Scan - Long press 3/SCN.
-Squelch - Menu, then 0/SQL.
+Squelch - Menu item 0.
 Monitor - Long press MON button.
-
 
 
 
 See battery voltage - Long press 0.
 See hardware and firmware information - Hold 8 and turn on.
-
 
 
 

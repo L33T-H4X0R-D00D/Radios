@@ -2,10 +2,9 @@ The ubiquitous gateway drug of amateur radio.
 
 
 
-
 Type: SOC
 
-Manu - Menu button.
+Menu - Menu button.
 U/D - Up and down arrows.
 Exit - Exit button.
 Change memory/frequency - VFO/MR button.
@@ -17,10 +16,8 @@ Monitor - Long press MON button.
 
 
 
-
 See battery voltage - Long press 0.
 See hardware and firmware information - Hold 8 and turn on.
-
 
 
 
