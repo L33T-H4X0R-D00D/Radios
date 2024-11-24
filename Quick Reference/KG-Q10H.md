@@ -16,9 +16,9 @@ Absolute workhorse of an HT. Waterproof, 4 bands, GPS, location sharing, intuiti
 **Change memory/frequency** -  Long press TDR/MODE button.  
 **Change selected VFO** -  AREA button.  
 **Change TX power** -  Menu item 2.  
-**Scan** -  Long press */SCN button. 
-**Squelch** -  Menu item 1. 
-**Monitor** -  Long press side button 2. 
+**Scan** -  Long press */SCN button.  
+**Squelch** -  Menu item 1.  
+**Monitor** -  Long press side button 2.  
 **Search for frequency** -  
 **Manual dial new talk group** -  
 

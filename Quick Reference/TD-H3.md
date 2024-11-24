@@ -12,9 +12,9 @@ Incredibly feature rich radio. 3 bands.  The best factory interface of the budge
 
 **Menu** -  Blue BT button.  
 **U/D** -  Arrow buttons.  
-**Exit** -  Orange V/M button. 
+**Exit** -  Orange V/M button.  
 **Change memory/frequency** -  Orange V/M button.  
-**Change selected VFO** -  #-A/B button. 
+**Change selected VFO** -  #-A/B button.  
 **Change TX power** -  Menu item 2.  
 **Scan** -  Long press 3-SCN button.  
 **Squelch** -  Menu item 1.  

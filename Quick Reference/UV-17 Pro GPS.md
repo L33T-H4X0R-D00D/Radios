@@ -19,13 +19,13 @@ New budget model, perhaps aimed at replacing UV-5R. 3 bands and a menu system th
 **Scan** -  Long press #-Z button.  
 **Squelch** -  Menu item 2.  
 **Monitor** -  Long press side button 2.  
-**Search for frequency** -  Side button 2.  #-Z button to change band. 
+**Search for frequency** -  Side button 2.  #-Z button to change band.  
 **Manual dial new talk group** -  
 
 
 
 **NOAA hotkey** -  
-**Battery voltage** -  Long press 1 button. 
+**Battery voltage** -  Long press 1 button.  
 **Hardware and firmware information** -  
 **Change theme** -  
 **Change theme color** -  

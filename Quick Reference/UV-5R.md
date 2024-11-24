@@ -15,7 +15,7 @@ The ubiquitous gateway drug of amateur radio.
 **Exit** -  Exit button.  
 **Change memory/frequency** -  VFO/MR button.  
 **Change selected VFO** -  A/B button.  
-**Change TX power** -  Menu item 2. 
+**Change TX power** -  Menu item 2.  
 **Scan** -  Long press 3/SCN button.  
 **Squelch** -  Menu item 0.  
 **Monitor** -  Long press MON button.  
@@ -25,7 +25,7 @@ The ubiquitous gateway drug of amateur radio.
 
 
 **NOAA hotkey** -  
-**Battery voltage** -  Long press 0 button. 
+**Battery voltage** -  Long press 0 button.  
 **Hardware and firmware information** -  Hold 8 and turn on.  
 **Change theme** -  
 **Change theme color** -  
