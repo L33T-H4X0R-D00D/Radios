@@ -17,3 +17,49 @@
 
  
  
+
+Quick Reference Template
+
+---
+Short description.
+
+6m - 
+2m - 
+1.25m - 
+70c - 
+
+Type: SOC or Super Heterodyne
+
+Menu -
+U/D -
+Exit -
+Change memory/frequency -
+Change selected VFO -
+Change TX power - 
+Scan -
+Squelch -
+Monitor -
+Search for frequency -
+Manual dial new talk group -
+
+
+
+Additional hotkeys.
+NOAA hotkey -
+See battery voltage -
+See hardware and firmware information -
+Change theme -
+Change theme color -
+Menu for manipulating current channel -
+Display frequency information for channel -
+Change modulation -
+High vis channel/VFO -
+
+
+Unlock procedure -
+
+Program with Chirp Next - 
+
+Prepare to write firmware - 
+---
+

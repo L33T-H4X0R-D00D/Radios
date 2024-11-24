@@ -19,4 +19,4 @@ Monitor - Long press side button 2.
 Unlock procedure - Most units appear to support unlocking.
 Hold 2 button, turn on. Enter password 1445.
 
-Program with Chirp - Help -> Load module from issue -> 10692
+Program with Chirp Next - Help -> Load module from issue -> 10692
