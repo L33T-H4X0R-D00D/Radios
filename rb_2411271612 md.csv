@@ -1,0 +1,214 @@
+Output Freq,Input Freq,Offset,Uplink Tone,Downlink Tone,"Location",County,Lat,Long,Call,Use,Op Status,Mode,Digital Access,EchoLink,IRLP,AllStar,Coverage,Status,Last Update
+29.66000,29.56000,-,141.3,141.3,"Silver Spring",Montgomery,38.99069977,-77.02610016,N3AUY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-03-12
+53.09000,52.59000,-,107.2,107.2,"Westminster",Carroll,39.56655600,-76.97381100,K3PZN,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2021-06-30
+53.17000,52.67000,-,100.0,100.0,"Prince Frederick",Calvert,38.55959190,-76.59617260,W3PQS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-19
+53.25000,52.75000,-,100.0,100.0,"Ashton",Montgomery,39.14469910,-76.98629761,N3AGB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2014-03-12
+53.27000,52.27000,-,156.7,156.7,"Gaithersburg",Montgomery,39.14339828,-77.20140076,KV3B,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-14
+53.47000,52.47000,-,107.2,107.2,"Frederick - Gambrill State Park",Frederick,39.49465000,-77.49872000,N3KTX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-11-09
+53.83000,52.83000,-,94.8,,"Port Deposit",Cecil,39.63793600,-76.07462200,WA3SFJ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-02-22
+53.93000,53.43000,-,,,"Jarrettsville",Harford,39.60449982,-76.47769928,N3UR,OPEN,Unknown,Analog/analog,,297689,,,,Unknown,2021-11-27
+145.12000,144.52000,-,,,"Bel Air",Harford,39.58050156,-76.34739685,KC3FHC,OPEN,On-Air,DStar,,,,,,On-Air,2022-11-03
+145.13000,144.53000,-,,,"Crisfield - McCready Hospital",Somerset,37.99652100,-75.85217285,W3OR,OPEN,Unknown,DMR,1,,,,,Unknown,2024-08-17
+145.14000,144.54000,-,,,"Towson",Baltimore,39.40284000,-76.60295000,W3DHS,OPEN,Unknown,DStar,,,,,,Unknown,2022-10-05
+145.17000,144.57000,-,,,"Frederick - Gambrill State Park",Frederick,39.49459839,-77.49870300,W3FDK,OPEN,Unknown,DStar,,,,,,Unknown,2023-11-11
+145.19000,144.59000,-,110.9,,"Cockeysville",Baltimore,39.48120117,-76.64389801,K3NXU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-23
+145.19000,144.59000,-,179.9,179.9,"Ocean Pines - Sandyhook Road Water Tank",Worcester,38.38999939,-75.16359711,N3RCC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-01-07
+145.23000,144.63000,-,110.9,110.9,"District Heights",Prince Georges,38.85919952,-76.89669800,K3ERA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-03-14
+145.25000,144.65000,-,,,"Frederck",Frederick,39.41426880,-77.41054090,KK3L,OPEN,Unknown,Analog,,,,,,Unknown,2023-01-09
+145.25000,144.65000,-,,,"Chaptico",St. Marys,38.36802010,-76.78189530,N3KUN,Open,Testing,Analog/analog,,,,,,Testing,2023-09-15
+145.28000,144.68000,-,,,"Salisbury",Wicomico,38.36069870,-75.59940338,W3PRO,OPEN,On-Air,DStar,,,,,,On-Air,2023-01-14
+145.29000,144.69000,-,156.7,,"Bethesda - NIH",Montgomery,38.98070145,-77.10030365,K3YGG,OPEN,On-Air,Analog/analog,,247014,,,,On-Air,2021-05-31
+145.33000,144.73000,-,,,"Towson",Baltimore,39.40284000,-76.60295000,W3DHS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-09-15
+145.35000,144.75000,-,,,"Hollywood",St. Marys,38.35835540,-76.57194140,N3PPH,OPEN,Testing,Analog,,,,,,Testing,2024-10-15
+145.37000,144.77000,-,,,"Adelphi",Prince Georges,39.00320053,-76.97190094,W3ARL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-11-02
+145.39000,144.79000,-,114.8,,"Lexington Park",St. Marys,38.25755170,-76.46209280,N3PX,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-09-02
+145.41000,144.81000,-,114.8,114.8,"Westminster",Carroll,39.56655600,-76.97381100,K3PZN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-13
+145.45000,144.85000,-,123.0,,"Oldtown - Warrior Mountain WMA",Allegany,39.62089920,-78.62039948,W3YMW,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-04-11
+145.47000,144.87000,-,94.8,94.8,"Elkton",Cecil,39.60677890,-75.83327180,N3RCN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-14
+145.49000,144.89000,-,,,"College Park - UMD",Prince Georges,38.98320007,-76.94360352,W3EAX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-30
+145.67000,145.67000,x,77.0,,"Bel Air",Harford,39.55134100,-76.35680900,K2SHF,OPEN,On-Air,Analog,,,,54781,,On-Air,2024-11-02
+146.56500,144.60000,s,,,"Glen Burnie",Anne Arundel,39.16260840,-76.62468860,,OPEN,On-Air,Analog/analog,,242213,,,,On-Air,2021-06-12
+146.61000,146.01000,-,CSQ,77.0,"Bladensburg",Prince Georges,38.93930054,-76.93389893,K3GMR,OPEN,On-Air,Analog/analog,,796114,,,,On-Air,2021-01-07
+146.62500,146.02500,-,156.7,,"Princess Anne",Somerset,38.20289993,-75.69239807,KA3MRX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-24
+146.64000,146.04000,-,156.7,156.7,"Frederick",Frederick,39.43166670,-77.43833330,K3ERM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-11-09
+146.64000,146.04000,-,146.2,146.2,"Lexington Park",St. Marys,38.20344720,-76.39476830,K3HKI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-06-29
+146.67000,146.07000,-,107.2,,"Towson",Baltimore,39.40150070,-76.60189819,W3FT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-13
+146.70000,146.10000,-,173.8,,"Oakland",Garrett,39.40790176,-79.40670013,KB3AVZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-26
+146.71500,146.11500,-,,,"Fort Washington",Prince Georges,38.70733790,-77.02303130,,OPEN,On-Air,Analog,,,,,,On-Air,2023-01-09
+146.73000,146.13000,-,141.3,141.3,"Frederick - Gambrill State Park",Frederick,39.49459839,-77.49870300,W3FDK,OPEN,On-Air,Analog/analog,,614369,,54672,,On-Air,2023-01-03
+146.76000,146.16000,-,107.2,107.2,"Jessup",Anne Arundel,39.14929962,-76.77519989,WA3DZD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-13
+146.77500,146.17500,-,146.2,146.2,"Bel Air",Harford,39.58039856,-76.34739685,KC3FHC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+146.80500,146.20500,-,107.2,CSQ,"Millersville",Anne Arundel,39.09889984,-76.62229919,W3CU,OPEN,On-Air,Analog/analog,,90911,,,,On-Air,2022-06-29
+146.80500,146.20500,-,123.0,,"Oakland",Garrett,39.40999985,-79.28749847,KB8NUF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-05-18
+146.82000,146.22000,-,156.7,156.7,"Salisbury - WMDT Tower",Wicomico,38.50170135,-75.73580170,K3DRC,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-10-23
+146.83500,146.23500,-,,,"Greenbelt",Prince Georges,39.00460052,-76.87550354,WA3NAN,OPEN,On-Air,Analog/analog,,40045,,,,On-Air,2023-03-03
+146.85000,146.25000,-,107.2,,"Port Deposit",Cecil,39.63793600,-76.07462200,WA3SFJ,OPEN,On-Air,Analog/analog,,585690,,558300,,On-Air,2023-02-22
+146.85000,146.25000,-,,,"Hollywood",St. Marys,38.35835540,-76.57194140,W3BPT,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+146.86500,146.26500,-,,,"Tyaskin - Muddy Hole",Wicomico,38.27960600,-75.85033610,N3HQJ,OPEN,On-Air,DMR,1,,,,,On-Air,2023-09-10
+146.88000,146.28000,-,123.0,,"Midland - Dan's Mountain",Allegany,39.59009933,-78.94969940,W3YMW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-08-23
+146.88000,146.28000,-,77.0,77.0,"Greenbelt",Prince Georges,39.00460052,-76.87550354,W3GMR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-05
+146.89500,146.29500,-,CSQ,107.2,"Manchester",Carroll,39.71794400,-76.91455300,N3KZS,OPEN,On-Air,Analog/analog,,,7070,520690,,On-Air,2021-05-16
+146.92500,146.32500,-,156.7,156.7,"Salisbury",Wicomico,38.36069870,-75.59940338,W3PRO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-30
+146.94000,146.34000,-,107.2,CSQ,"Centerville",Queen Annes,39.04180145,-76.06629944,KE3AO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-30
+146.94000,146.34000,-,100.0,100.0,"Clear Spring - Fairview Mountain",Washington,39.65530014,-77.96959686,W3CWC,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2022-06-13
+146.95500,146.35500,-,CSQ,,"Rockville",Montgomery,39.05316000,-77.11666666,KV3B,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-06-07
+146.95500,146.35500,-,CSQ,156.7,"Ocean Pines",Worcester,38.38790131,-75.14610291,NW2M,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-04-15
+146.98500,146.38500,-,156.7,156.7,"Sunderland",Calvert,38.67422000,-76.59400000,K3CAL,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-30
+147.00000,146.40000,-,156.7,,"Ashton",Montgomery,39.14469910,-76.98629761,KC3BXH,OPEN,On-Air,P25/analog,293,105440,,,,On-Air,2023-03-26
+147.03000,147.63000,+,156.7,,"Towson",Baltimore,39.40284000,-76.60295000,WB3DZO,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-05-16
+147.04500,147.64500,+,156.7,CSQ,"Trappe",Talbot,38.63029861,-76.05650330,K3EMD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-30
+147.06000,147.66000,+,146.2,146.2,"Frederick",Frederick,39.41429901,-77.41049957,K3MAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-02
+147.07500,147.67500,+,107.2,107.2,"Crownsville",Anne Arundel,39.01022581,-76.60885768,W3VPR,OPEN,On-Air,Analog/analog,,677954,,,,On-Air,2024-03-15
+147.09000,147.69000,+,100.0,100.0,"Pen Mar - High Rock",Washington,39.69589996,-77.51390076,W3CWC,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-05-20
+147.10500,147.70500,+,107.2,CSQ,"Davidsonville",Anne Arundel,38.90299988,-76.65299988,W3VPR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-10-26
+147.12000,147.72000,+,114.8,114.8,"Bel Air",Harford,39.59500000,-76.32144300,KO3L,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2020-08-19
+147.13500,147.73500,+,156.7,156.7,"Columbia",Howard,39.24322080,-76.84426110,K3CUJ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-04-21
+147.15000,147.75000,+,114.8,114.8,"Brandywine",Prince Georges,38.70949936,-76.86219788,W3SMR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-07
+147.16500,147.76500,+,,,"Cumberland",Allegany,39.65240097,-78.76159668,KB3FN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-26
+147.18000,147.78000,+,156.7,,"Silver Spring",Montgomery,38.99069977,-77.02610016,KA3LAO,OPEN,On-Air,P25/analog,293,,,,,On-Air,2023-12-01
+147.19500,147.79500,+,,,"Owings Mills",Baltimore,39.41954990,-76.78025280,N3EJT,OPEN,On-Air,DMR,1,,,,,On-Air,2024-07-30
+147.19500,147.79500,+,156.7,156.7,"Hollywood",St. Marys,38.34600067,-76.57160187,N3PX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-06
+147.22500,147.82500,+,156.7,,"Silver Spring",Montgomery,38.99069977,-77.02610016,WB3GXW,OPEN,On-Air,Analog/analog,,147225,,,,On-Air,2021-11-02
+147.24000,147.84000,+,123.0,,"Midland - Dans Mountain",Allegany,39.58179855,-78.89839935,KK3L,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-04-05
+147.24000,147.84000,+,123.0,123.0,"Baltimore - Kenwood High School",Baltimore,39.32529831,-76.46320343,W3PGA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-12-13
+147.27000,147.87000,+,156.7,,"Germantown",Montgomery,39.17319870,-77.27169800,WA3KOK,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2022-10-02
+147.28500,147.88500,+,107.2,,"Sykesville",Carroll,39.38839260,-76.95525800,K3PZN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-03
+147.31500,147.91500,+,,,"Frostburg",Allegany,39.65814240,-78.92835700,W3YMW,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2024-10-15
+147.34500,147.94500,+,192.8,,"Dundalk",Baltimore,39.26779938,-76.51529694,N3EST,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-30
+147.34500,147.94500,+,123.0,,"Clear Spring",Washington,39.65620041,-77.93170166,K3MAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+147.37500,147.97500,+,156.7,156.7,"Worton",Kent,39.28210068,-76.09079742,K3ARS,OPEN,On-Air,Analog/analog,,249466,,,,On-Air,2021-08-04
+147.39000,147.99000,+,156.7,CSQ,"Cooksville",Howard,39.32099915,-77.01909637,K3CUJ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-09-17
+147.39000,147.99000,+,123.0,,"Leonardtown - Fairgrounds",St. Marys,38.27030563,-76.60572052,KC3FOQ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-07-30
+223.84000,222.24000,-,,,"Perry Hall",Baltimore,39.41260147,-76.46360016,W3JEH,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2017-02-23
+223.88000,222.28000,-,107.2,CSQ,"Davidsonville",Anne Arundel,38.90299988,-76.65299988,W3VPR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-09-02
+223.90000,222.30000,-,186.2,,"Prince Frederick - Barstow",Calvert,38.52579880,-76.61689758,W3SMD,OPEN,On-Air,Analog/analog,,653058,,513100,,On-Air,2023-05-09
+223.96000,222.36000,-,,,"Bel Air",Harford,39.59500000,-76.32144300,KO3L,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-08-07
+224.00000,222.40000,-,131.8,,"Galena",Kent,39.34069824,-75.87879944,KB3MEC,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2016-12-29
+224.20000,222.60000,-,123.0,,"Frederick",Frederick,39.41429901,-77.41049957,K3MAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-02
+224.22000,222.62000,-,110.9,CSQ,"Abingdon",Harford,39.49576080,-76.30277700,K2EJ,OPEN,On-Air,Analog/analog,,167177,,51537,,On-Air,2024-04-21
+224.32000,222.72000,-,,,"Ellicott City",Howard,39.26729965,-76.79830170,N3EZD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-03
+224.48000,222.88000,-,,,"Joppa",Harford,39.41850000,-76.32840000,N3HIA,OPEN,On-Air,Analog/analog,,245186,,,,On-Air,2021-10-13
+224.54000,222.94000,-,156.7,,"Ashton",Montgomery,39.14469910,-76.98629761,K3WX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-07-30
+224.56000,222.96000,-,107.2,,"Millersville",Anne Arundel,39.09889984,-76.62229919,W3VPR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-09-02
+224.60000,223.00000,-,,,"Glen Burnie",Anne Arundel,39.16260147,-76.62470245,N3MIR,OPEN,Unknown,Analog/analog,,,,,,Unknown,2017-02-23
+224.68000,223.08000,-,,,"Baltimore",Baltimore,39.34600067,-76.58460236,KS3L,OPEN,Unknown,Analog/analog,,,,,,Unknown,2017-02-23
+224.86000,223.26000,-,,,"Columbia",Howard,39.20299911,-76.85800171,W3CAM,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2017-02-23
+224.92000,223.32000,-,,,"Shawsville",Harford,39.63470078,-76.55500031,N3UR,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2016-12-29
+224.94000,223.34000,-,156.7,,"Rockville",Montgomery,39.08399963,-77.15280151,K3ATV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2018-07-05
+421.25000,434.00000,s,,,"Towson",Baltimore,39.40185130,-76.60238030,W3BAB,Open,On-Air,Analog,,,,,,On-Air,2023-09-15
+439.25000,426.25000,s,,,"Baltimore",Baltimore,39.29040146,-76.61219788,W3WCQ,OPEN,Off-Air,Analog,,,,,,Off-Air,2023-01-09
+439.97500,439.97500,x,107.2,,"Abingdon",Harford,39.49459500,-76.30345800,,Open,On-Air,Analog/analog,,,,,,On-Air,2024-05-14
+441.38750,446.38750,+,,,"Prince Frederick",Calvert,38.53444000,-76.58847000,N3PPH,OPEN,On-Air,DMR,1,,,,,On-Air,2024-04-21
+441.40000,446.40000,+,,,"Towson",Baltimore,39.40150070,-76.60189819,WR3IRS,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-17
+441.63750,446.63750,+,,,"Sunderland - Mt Hope Comm Ctr",Calvert,38.67420800,-76.59397900,N3PPH,OPEN,On-Air,DMR,1,,,,,On-Air,2024-07-30
+441.66250,446.66250,+,,,"Chestertown",Kent,39.21886630,-76.06900360,N3YMS,OPEN,On-Air,DMR,1,,,,,On-Air,2021-03-07
+441.78750,446.78750,+,,,"Mechanicsville",St. Marys,38.39805600,-76.63083300,N3PPH,OPEN,On-Air,DMR,1,,,,,On-Air,2020-07-14
+441.80000,446.80000,+,141.3,141.3,"Frederick - Gambrill State Park",Frederick,39.49463600,-77.49873800,W3FDK,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-14
+441.83750,446.83750,+,,,"Annapolis - Broad Creek Park",Anne Arundel,38.98026034,-76.56651836,KB3CMA,OPEN,On-Air,DMR,1,,,,,On-Air,2024-09-08
+441.88750,446.88750,+,,,"Gaithersburg - The RF Connection",Montgomery,39.14476200,-77.20207900,KA3LAO,OPEN,On-Air,DMR,1,,,,,On-Air,2020-05-17
+441.88750,446.88750,+,,,"Princess Anne",Somerset,38.28369904,-75.65609741,N3YMS,OPEN,On-Air,DMR,2,,,,,On-Air,2024-08-07
+441.91250,446.91250,+,,,"Wye Mills",Talbot,38.94008420,-76.08110970,N3YMS,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+441.96250,446.96250,+,,,"Frederick - Gambrill State Park",Frederick,39.49460899,-77.49884586,K3DO,OPEN,On-Air,DMR,1,,,,,On-Air,2023-06-19
+442.05000,447.05000,+,,,"Federalsburg",Caroline,38.69428090,-75.77215510,N3KNT,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+442.11250,447.11250,+,,,"Towson",Baltimore,39.40284000,-76.60295000,W3DHS,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+442.15000,447.15000,+,,,"Bowie",Prince Georges,39.00680161,-76.77909851,W3XJ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-30
+442.20000,447.20000,+,156.7,156.7,"Easton - UM/Shore Regional Medical Center",Talbot,38.76940155,-76.07630157,K3EMD,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-04-05
+442.23750,447.23750,+,,,"Ashton",Montgomery,39.15340042,-77.01219940,WA3KOK,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+442.25000,447.25000,+,107.2,107.2,"Baltimore - Halethorpe",Baltimore,39.25562030,-76.67499350,WA3KOK,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2024-10-15
+442.30000,447.30000,+,107.2,107.2,"Annapolis - Broad Creek Park",Anne Arundel,38.98030090,-76.56649780,KB3CMA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-05-20
+442.40000,447.40000,+,,,"Millersville",Anne Arundel,39.05749893,-76.64859772,KP4IP,OPEN,Unknown,DMR,1,,,,,Unknown,2023-01-17
+442.48750,447.48750,+,,,"Rockville",Montgomery,39.08399963,-77.15280151,N3JFW,OPEN,On-Air,DMR,1,,,,,On-Air,2019-12-08
+442.50000,447.50000,+,156.7,,"Laurel",Anne Arundel,39.09930038,-76.84829712,W3LRC,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-10-03
+442.53750,447.53750,+,,,"Trappe",Talbot,38.60755320,-76.04654430,N3YMS,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+442.55000,447.55000,+,107.2,,"Gambrills",Anne Arundel,39.06710052,-76.66519928,N3SCP,OPEN,Unknown,YSF/analog,,,,,,Unknown,2021-02-02
+442.60000,447.60000,+,127.3,,"Glen Burnie",Anne Arundel,39.16260147,-76.62470245,N3MIR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+442.65000,447.65000,+,79.7,,"Clear Spring",Washington,39.66220093,-77.96440125,N3UHD,OPEN,On-Air,Analog/analog,,481682,,,,On-Air,2023-02-11
+442.65000,447.65000,+,156.7,,"Salisbury",Wicomico,38.36069870,-75.59940338,N3HQJ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2018-08-05
+442.71250,447.71250,+,,,"Jessup",Anne Arundel,39.14927460,-76.77524930,KA3LAO,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-07
+442.73750,447.73750,+,,,"Worton",Kent,39.27460098,-76.09220123,K3ARS,OPEN,On-Air,DMR,1,,,,,On-Air,2021-03-25
+442.75000,447.75000,+,167.9,167.9,"Midland",Allegany,39.59009933,-78.94969940,AB3FE,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-03-18
+442.75000,447.75000,+,156.7,156.7,"Rockville",Montgomery,39.08399963,-77.15280151,KV3B,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-04-22
+442.80000,447.80000,+,79.7,79.7,"Frederick",Frederick,39.49390030,-77.49900055,N3ITA,OPEN,On-Air,P25/analog,797,481682,,,,On-Air,2023-06-19
+442.95000,447.95000,+,103.5,,"Charlestown - Water Tower",Cecil,39.57728000,-75.98162500,N3RCN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-21
+442.95000,447.95000,+,94.8,CSQ,"Boonsboro",Washington,39.50619888,-77.65249634,KD3SU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-06-19
+443.05000,448.05000,+,,,"Lexington Park",St. Marys,38.25360107,-76.45970154,WA3UMY,OPEN,Unknown,Analog/analog,,,4820,,,Unknown,2022-04-06
+443.15000,448.15000,+,156.7,156.7,"Ashton",Montgomery,39.14469910,-76.98629761,KC3BXH,OPEN,On-Air,P25/analog,293,,,,,On-Air,2023-03-07
+443.30000,448.30000,+,100.0,,"Jefferson",Frederick,39.36169815,-77.53639984,K3LMS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2014-01-31
+443.30000,448.30000,+,123.0,,"Leonardtown - Saint Mary&#039;s Fairgrounds",St. Marys,38.27036000,-76.60574000,KC3FOQ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-04-21
+443.35000,448.35000,+,,,"Randallstown",Baltimore,39.36729813,-76.79519653,WB3DZO,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-12-13
+443.40000,448.40000,+,136.5,136.5,"Frederick",Frederick,39.41429901,-77.41049957,WA3KOK,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2022-10-02
+443.45000,448.45000,+,151.4,151.4,"Ocean City - Seawatch Hotel",Worcester,38.42039871,-75.05500031,K3ORB,OPEN,On-Air,P25/analog,293,54045,4291,,,On-Air,2020-01-07
+443.60000,448.60000,+,103.5,103.5,"Brandywine",Prince Georges,38.69680023,-76.84770203,WA3YUV,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-07
+443.65000,448.65000,+,,,"Havre de Grace",Harford,39.54700089,-76.10800171,WN3A,OPEN,On-Air,DMR,1,,,,,On-Air,2024-03-30
+443.66250,448.66250,+,,,"Adelphi",Prince Georges,39.00316560,-76.97192000,N3TUK,OPEN,Off-Air,DMR,1,,,,,Off-Air,2024-10-15
+443.70000,448.70000,+,179.9,179.9,"Barstow",Calvert,38.52720200,-76.61496200,N3FI,OPEN,Off-Air,YSF/analog,,,,,,Off-Air,2024-07-30
+443.78750,448.78750,+,,,"Largo",Prince Georges,38.87797230,-76.83173250,W4ATN,OPEN,On-Air,DMR,3,,,,,On-Air,2023-01-18
+443.80000,448.80000,+,,,"Laurel",Prince Georges,39.09927520,-76.84830610,W4ATN,OPEN,On-Air,Analog,,,,,,On-Air,2023-03-12
+443.90000,448.90000,+,,,"Flintstone",Allegany,39.70309830,-78.56780243,KB3VJO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2018-06-17
+443.90000,448.90000,+,156.7,,"Rockville - Montgomery County Executive Building",Montgomery,39.08300018,-77.14949799,WA3YOO,OPEN,On-Air,P25/analog,1293,,,,,On-Air,2024-08-07
+443.95000,448.95000,+,,,"Dayton",Howard,39.23920059,-76.98690033,W3YVV,PRIVATE,On-Air,Analog/analog,,,,,,On-Air,2017-08-03
+444.00000,449.00000,+,123.0,123.0,"Cumberland",Allegany,39.65290070,-78.76249695,KK3L,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-05-12
+444.00000,449.00000,+,107.2,107.2,"Jessup",Anne Arundel,39.14929962,-76.77519989,WA3DZD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-13
+444.01250,449.01250,+,,,"Ocean Pines - Sandyhook Road Water Tank",Worcester,38.38999939,-75.16359711,K3ORB,OPEN,On-Air,DMR,1,,,,,On-Air,2023-09-13
+444.05000,449.05000,+,,,"Ashton",Montgomery,39.14929120,-77.01234640,WA3KOK,CLOSED,Off-Air,P25/analog,293,,4088,,,Off-Air,2022-10-02
+444.05000,449.05000,+,,156.7,"Salisbury",Wicomico,38.36069870,-75.59940338,K3RIC,OPEN,Unknown,YSF/analog,,,,,,Unknown,2022-04-05
+444.10000,449.10000,+,167.9,CSQ,"Frederick - Gambrill Mountain",Frederick,39.49409160,-77.49873620,N3ST,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-06-19
+444.15000,449.15000,+,131.8,131.8,"Havre De Grace",Harford,39.54859924,-76.09089661,N3KZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-10
+444.20000,449.20000,+,,,"Germantown",Montgomery,39.17319870,-77.27169800,KV3B,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+444.20000,449.20000,+,,,"Salisbury",Wicomico,38.36069870,-75.59940338,W3PRO,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+444.25000,449.25000,+,156.7,,"Silver Spring",Montgomery,39.06309891,-76.94589996,WB3GXW,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2017-08-05
+444.27500,449.27500,+,110.9,,"Oakland",Garrett,39.40790176,-79.40670013,KB3AVZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-09
+444.35000,449.35000,+,,,"Chesapeake Beach - Willows Colony",Calvert,38.62601990,-76.51977700,WG3K,OPEN,On-Air,DStar,,,,,,On-Air,2023-02-24
+444.35000,449.35000,+,100.0,100.0,"Frederick - Braddock Mountain",Frederick,39.41882780,-77.50388610,W3ARK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-11-09
+444.40000,449.40000,+,107.2,107.2,"Davidsonville",Anne Arundel,38.90299988,-76.65299988,W3VPR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-30
+444.50000,449.50000,+,118.8,118.8,"Midland - Dans Rock",Allegany,39.65290070,-78.76249695,W3YMW,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-04-26
+444.50000,449.50000,+,127.3,,"Accokeek",Prince Georges,38.66759872,-77.02829742,W3TOM,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-01-07
+444.65000,449.65000,+,,,"Upper Marlboro",Prince Georges,38.89174000,-76.79692000,N3LHD,OPEN,On-Air,DMR,6,,,,Wide area,On-Air,2023-02-19
+444.70000,449.70000,+,167.9,,"Laurel",Prince Georges,39.09930038,-76.84829712,WA3GPC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-30
+444.75000,449.75000,+,162.2,CSQ,"Havre de Grace - Harford Memorial Hospital",Harford,39.54466700,-76.09400000,KC3FHC,OPEN,On-Air,Analog,,,,,,On-Air,2020-09-27
+444.80000,449.80000,+,,,"Frederick - Gambrill Mountain",Frederick,39.49459839,-77.49870300,W3FDK,OPEN,On-Air,DStar,,,,,Wide area,On-Air,2022-04-02
+444.95000,449.95000,+,156.7,156.7,"Lusby - Appeal Landfill",Calvert,38.38183560,-76.44365510,K3CAL,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-04-06
+446.46000,446.46000,x,,,"Bel Air",Harford,39.54000000,-76.33000000,KC3WRK,Open,On-Air,DMR,,,,,,On-Air,2024-02-11
+447.07500,442.07500,-,167.9,,"Aquasco",Prince Georges,38.63954600,-76.76866667,N3ARN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-23
+447.12500,442.12500,-,123.0,123.0,"Hagerstown",Washington,39.62670135,-77.71050262,W3ARK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-10
+447.32500,442.32500,-,131.8,,"Elkton",Cecil,39.60680008,-75.83329773,W3BXW,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-07-15
+447.32500,442.32500,-,114.8,,"Potomac",Montgomery,39.01819992,-77.20860291,K3BSB,OPEN,Unknown,Analog/analog,,,,,,Unknown,2024-10-15
+447.32500,442.32500,-,110.9,,"Lanham - Doctors Community Hospital",Prince Georges,38.98080063,-76.86530304,K3ERA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+447.37500,442.37500,-,67.0,,"Middle River",Baltimore,39.33691500,-76.45646500,W3DAK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-05-29
+447.97500,442.97500,-,100.0,100.0,"Pen Mar - High Rock",Washington,39.69589996,-77.51390076,W3CWC,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-05-20
+447.98750,442.98750,-,,,"Bel Air",Harford,39.58050156,-76.34739685,KC3FHC,OPEN,On-Air,DStar,,,,,,On-Air,2020-05-12
+448.02500,443.02500,-,103.5,103.5,"Thurmont",Frederick,39.61909866,-77.49500275,K3KMA,OPEN,On-Air,Analog/analog,,481682,,,,On-Air,2023-02-11
+448.12500,443.12500,-,123.0,,"Frederick",Frederick,39.41429901,-77.41049957,K3MAD,OPEN,Unknown,P25,734,,,,,Unknown,2021-06-29
+448.22500,443.22500,-,107.2,,"Centreville",Queen Annes,39.04180145,-76.06629944,KE3AO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-30
+448.27500,443.27500,-,156.7,156.7,"Cooksville",Howard,39.31765860,-77.02039130,K3CUJ,OPEN,Testing,YSF/analog,,,,,,Testing,2023-09-15
+448.32500,443.32500,-,,,"Baltimore",Baltimore,39.29040146,-76.61219788,WB3DZO,OPEN,Unknown,Analog/analog,,,,,,Unknown,2015-07-19
+448.42500,443.42500,-,100.0,100.0,"Frederick - Gambrill State Park",Frederick,39.49416670,-77.49850000,K3ERM,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-06-19
+448.47500,443.47500,-,,,"Jarrettsville",Harford,39.60449982,-76.47769928,N3UR,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-03-18
+448.52500,443.52500,-,82.5,,"Cockeysville",Baltimore,39.48120117,-76.64389801,KB3BHO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-08-06
+448.52500,443.52500,-,110.9,,"Fort Washington",Prince Georges,38.70729828,-77.02300262,KC3BFB,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-01-07
+448.57500,443.57500,-,,,"Mount Airy",Carroll,39.37621450,-77.15470400,KC3TWN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-07
+448.57500,443.57500,-,107.2,,"Elkton",Cecil,39.56083000,-75.88980000,N3RCN,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-03-21
+448.67500,443.67500,-,91.5,,"Dundalk - Key Bridge",Baltimore,39.24470139,-76.49909973,KC3APF,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-09-15
+448.92500,443.92500,-,167.9,,"Suitland",Prince Georges,38.84859848,-76.92420197,N3ST,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-06
+449.02500,29.56000,s,141.3,,"Silver Spring",Montgomery,38.99069977,-77.02610016,N3AUY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2015-04-13
+449.02500,444.02500,-,156.7,,"Silver Spring",Montgomery,38.99069977,-77.02610016,N3AUY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-08-06
+449.07500,444.07500,-,,,"Owings Mills",Baltimore,39.41954990,-76.78025280,N3CDY,OPEN,On-Air,DMR,1,,,,,On-Air,2022-05-09
+449.12500,444.12500,-,107.2,,"Millersville",Anne Arundel,39.09889984,-76.62229919,W3CU,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-01-26
+449.17500,444.17500,-,156.7,,"Chestertown - University of Maryland Shore Medical Center at Che",Kent,39.21720123,-76.06559753,K3ARS,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-04-09
+449.27500,444.27500,-,107.2,,"Towson",Baltimore,39.40150070,-76.60189819,N3CDY,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2022-10-02
+449.47500,444.47500,-,,,"Columbia",Howard,39.19390106,-76.93000031,K3CUJ,OPEN,On-Air,YSF,,,,,,On-Air,2023-02-19
+449.52500,444.52500,-,100.0,,"Ellicott City",Howard,39.26729965,-76.79830170,N3EZD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-02-19
+449.57500,444.57500,-,123.0,123.0,"Essex - Kenwood High School",Baltimore,39.32583300,-76.46222200,W3PGA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-08-07
+449.61250,444.61250,-,,,"Bel Air",Harford,39.53590012,-76.34829712,KB3WHR,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-17
+449.67500,444.67500,-,167.9,,"Timonium",Baltimore,39.44831100,-76.68195600,N3ST,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-13
+449.77500,444.77500,-,162.2,162.2,"Forest Hill",Harford,39.58050156,-76.34739685,KC3FHC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-07
+449.82500,444.82500,-,167.9,,"Port Deposit",Cecil,39.63793600,-76.07462200,WA3SFJ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-02-22
+449.87500,444.87500,-,127.3,127.3,"Westminster",Carroll,39.56655600,-76.97381100,K3PZN,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-12-13
+923.25000,1265.25000,s,,,"Laurel",Anne Arundel,39.09930038,-76.84829712,K3UQQ,OPEN,Off-Air,Analog,,,,,,Off-Air,0000-00-00
+923.25000,1277.25000,s,,,"Rockville",Montgomery,39.08399963,-77.15280151,K3ATV,OPEN,Off-Air,Analog,,,,,,Off-Air,0000-00-00
+927.13750,902.13750,-,,,"Rockville",Montgomery,39.08399730,-77.15275780,WA3KOK,OPEN,Testing,Analog,,,,,,Testing,2023-01-09
+927.51250,902.51250,-,156.7,,"Owings Mills",Baltimore,39.41960144,-76.78029633,N3CDY,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2017-02-23
+927.53750,902.53750,-,156.7,,"Dayton",Howard,39.23920059,-76.98690033,W3YVV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-10-28
+927.72500,902.72500,-,156.7,,"Ashton",Montgomery,39.14469910,-76.98629761,K3WX,OPEN,On-Air,Analog/analog,,,4088,,,On-Air,2017-07-30
+1248.10000,1248.10000,x,,,"Bel Air",Harford,39.58050156,-76.34739685,KC3FHC,OPEN,On-Air,DStar,,,,,,On-Air,2020-05-12
+1282.30000,1262.30000,-,,,"Bel Air",Harford,39.58050156,-76.34739685,KC3FHC,OPEN,On-Air,DStar,,,,,,On-Air,2020-05-12

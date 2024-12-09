@@ -1,0 +1,43 @@
+; Windows USB CDC-ACM Setup File
+; Copyright (c) 2023 JVCKenwood Corporation
+
+[Version]
+Signature = "$Windows NT$"
+Class = Ports
+ClassGUID={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider = %ProviderName%
+DriverVer=06/09/2023,1.0.0.0
+CatalogFile=USB_CDC_Driver_TH-D75_x86.cat
+
+[Manufacturer]
+%ProviderName%=DevDrv,NTx86
+
+[DevDrv.NTx86]
+%DeviceName1% =DriverInstall,USB\VID_2166&PID_600B&MI_00
+%DeviceName2% =DriverInstall,USB\VID_2166&PID_9023&MI_00
+
+[DriverInstall.NTx86]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=DriverInstall.NTx86.AddReg
+
+[DriverInstall.NTx86.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.NTx86.Services]
+AddService=usbser, 0x00000002, DriverService.NTx86
+
+[DriverService.NTx86]
+DisplayName=%SERVICE%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+
+[Strings]
+ProviderName="JVCKENWOOD Corporation"
+DeviceName1="TH-D74"
+DeviceName2="TH-D75"
+SERVICE="USB RS-232 Emulation Driver"

@@ -1,0 +1,8 @@
+[Autorun]
+open=Install.exe
+icon=WIRES-X.ico
+
+[Menu]
+Param=2A
+DrvVersion="1.004"
+AppVersion="1.550 "

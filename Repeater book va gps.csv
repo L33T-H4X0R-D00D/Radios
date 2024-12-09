@@ -1,0 +1,430 @@
+Output Freq,Input Freq,Offset,Uplink Tone,Downlink Tone,Location,County,Lat,Long,Call,Use,Op Status,Mode,Digital Access,EchoLink,IRLP,AllStar,Coverage,Status,Last Update
+440.5125,445.5125,+,,,Hampton,(independent),37.00719833,-76.35079956,K4LCT,OPEN,On-Air,DMR,7,,,,,On-Air,2021-03-29
+440.55,445.55,+,,,Rushmere,Isle of Wight,37.10329819,-76.70999908,N6DLH,OPEN,On-Air,DMR,1,,,,,On-Air,2024-04-19
+440.7,445.7,+,,,Williamsburg,James City,37.2415,-76.7167,KO4VQE,OPEN,Unknown,DStar,,,,,,Unknown,2023-08-17
+440.7,445.7,+,,,Roanoke - Long Ridge,Roanoke,37.2322998,-80.04570007,KD4EG,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-24
+440.8,445.8,+,77,,Ripplemead,,37.3370675,-80.6861796,KD4BNQ,OPEN,On-Air,YSF,,,,,,On-Air,2024-04-19
+441.3375,446.3375,+,,,Tysons Corner,Fairfax,38.91859818,-77.2315979,N9KET,OPEN,On-Air,DMR,1,,,,,On-Air,2023-08-15
+441.45,446.45,+,110.9,,Arlington,Fairfax,38.88000107,-77.10679626,W4CIA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-07-03
+441.65,446.65,+,,,Tysons Corner,Fairfax,38.9187222,-77.2310925,N9KET,OPEN,Unknown,DMR,2,,,,,Unknown,2022-04-12
+441.75,446.75,+,77,,Martinsville - Chestnut Knob,Henry,36.61375,-79.91727,W4RPS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-18
+441.8125,446.8125,+,,,Newport News,(independent),37.08710098,-76.47299957,W4MT,OPEN,On-Air,DStar,,,,,,On-Air,2022-11-26
+441.825,446.825,+,107.2,,Chatham,Pittsylvania,36.8256943,-79.3980806,W4FYB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-10-04
+441.85,446.85,+,,,Martinsville - Chestnut Knob,Henry,36.69150162,-79.87249756,N2TEK,OPEN,On-Air,DMR,15,,,,,On-Air,2021-05-07
+441.9,446.9,+,103.5,103.5,Gate City,Scott,36.8973999,-82.62210083,K4GV,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-10-21
+441.925,446.925,+,,,Lexington - Brushy Hill,Rockbridge,37.78900146,-79.48799896,W4DHW,OPEN,On-Air,DMR,1,,,,,On-Air,2019-12-13
+441.95,446.95,+,107.2,107.2,Pearisburg - Bald Knob,Giles,37.35010147,-80.53720093,KD4BNQ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-04-06
+441.975,446.975,+,,,Christiansburg - Fishers View Mountain,Montgomery,37.0925,-80.306,KD4ADL,OPEN,On-Air,DMR,9,,,,,On-Air,2024-04-23
+442,447,+,146.2,146.2,Winchester,Frederick,39.18569946,-78.16329956,W3IF,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-04-05
+442,447,+,103.5,103.5,Chilhowie,Smyth,36.79470062,-81.69360352,W4DWN,OPEN,On-Air,YSF/analog,,,,,,On-Air,2018-02-04
+442,447,+,110.9,,Montross,Westmoreland,38.0951004,-76.82749939,KJ4PGD,OPEN,Unknown,YSF/analog,,,,,,Unknown,2021-08-27
+442.025,447.025,+,131.8,131.8,Staunton - Gypsy Hill Park,(independent),38.159647,-79.086082,K3RFP,OPEN,On-Air,YSF/analog,,,,,,On-Air,2020-05-16
+442.05,447.05,+,179.9,,Stephens City,Frederick,39.0834398,-78.2180567,N2XIF,OPEN,Unknown,Analog/analog,,235806,,,,Unknown,2020-12-20
+442.05,447.05,+,,,Talleysville,New Kent,37.513553,-77.066039,K2VIZ,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2023-01-09
+442.05,447.05,+,,,Lexington - Brushy Hill,Rockbridge,37.78900146,-79.48799896,W4DHW,OPEN,Unknown,YSF,293,,,,,Unknown,2019-12-25
+442.06,447.06,+,,,Alexandria - Hospital,(independent),38.82220078,-77.10540009,W4HFH,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+442.075,447.075,+,151.4,,Charlottesville - Carter's Mountain,Albemarle,38.02930069,-78.47669983,KF4UCI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-04-05
+442.075,447.075,+,,,Pulaski - Peaks Knob,Pulaski,37.02420044,-80.74629974,K4XE,OPEN,On-Air,DMR,9,,,,,On-Air,2021-05-08
+442.1,447.1,+,77,,Leesburg,Loudoun,39.11569977,-77.56359863,WA4TXE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-05-24
+442.1,447.1,+,103.5,,"Honaker - Big A Mountain, VA",Russell,37.05199814,-82.03549957,KM4HDM,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2023-07-06
+442.1125,447.1125,+,,,Fredericksburg,Stafford,38.33250046,-77.3946991,N8RAT,OPEN,Unknown,DMR,1,,,,,Unknown,2022-01-19
+442.1375,447.1375,+,,,Ashburn,Loudoun,39.07157982,-77.4816885,WB6EFW,OPEN,On-Air,DMR,1,,,,,On-Air,2021-11-20
+442.175,447.175,+,100,100,Hampton,(independent),37.0351,-76.4205,N6GVG,PRIVATE,Testing,Analog/analog,,,,,,Testing,2024-03-18
+442.2,447.2,+,100,,Manassas,Prince William,38.783558,-77.522406,W4OVH,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-03-17
+442.2,447.2,+,107.2,107.2,Roanoke - Poor Mountain,Roanoke,37.1975,-80.1525,AE4JA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-04-04
+442.225,447.225,+,,,Fancy Gap,Carroll,36.66600037,-80.69229889,N4YR,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-11-15
+442.2375,447.2375,+,,,Virginia Beach - Mt Trashmore,(independent),36.83079,-76.12885,WB4JCX,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-17
+442.25,447.25,+,100,,Covington - Warm Springs Mountain,Bath,37.99372,-79.80755,WA4PGI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-18
+442.25,447.25,+,167.9,167.9,Warrenton,Fauquier,38.71350098,-77.79530334,W4VA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-09-06
+442.325,447.325,+,100,100,Fancy Gap,Carroll,36.66600037,-80.69229889,KB4GHT,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-03-11
+442.35,447.35,+,123,,Linden - Blue Ridge Mountains,Fauquier,38.9090004,-78.07559967,N3UR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-07-03
+442.4,447.4,+,,,Fredericksburg,(independent),38.311249,-77.483059,WX4EMC,OPEN,On-Air,DMR,1,,,,,On-Air,2023-09-07
+442.4,447.4,+,107.2,107.2,Lynchburg - Jack Mountain,Campbell,37.3368085,-79.1533656,KF4YI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-03-23
+442.4125,447.4125,+,,,Alexandria,(independent),38.80479813,-77.04689789,W4HFH,OPEN,On-Air,DMR,1,,,,,On-Air,2020-12-23
+442.4125,447.4125,+,,,Haymarket,Prince William,38.81209946,-77.63639832,N4USI,OPEN,Unknown,DStar,,,,,,Unknown,2013-07-29
+442.425,447.425,+,107.2,107.2,Fancy Gap,Carroll,36.66600037,-80.69229889,KF4OVA,OPEN,On-Air,Analog/analog,,477057,8311,,Wide area,On-Air,2019-08-16
+442.4375,447.4375,+,,,Herndon - Worldgate,Fairfax,38.96960068,-77.38610077,N3QEM,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-16
+442.45,447.45,+,100,100,Norfolk - Norfolk Waterfront,(independent),36.84562,-76.28962,KC2HTT,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-01-01
+442.45,447.45,+,79.7,,Stafford,Stafford,38.40511,-77.54411,WS4VA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-08-09
+442.475,447.475,+,77,77,Maurertown,Shenandoah,38.92969894,-78.46379852,N3UHD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-05
+442.4875,447.4875,+,,,Stafford,Stafford,38.42210007,-77.40830231,WU5MC,OPEN,Unknown,DStar,,,,,,Unknown,2018-12-23
+442.5,447.5,+,107.2,,Roanoke - Poor Mountain,Roanoke,37.19760132,-80.15229797,W4CA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-04-04
+442.5125,447.5125,+,,,Manassas - NOVEC Communications Tower,Prince William,38.7826004,-77.5062027,W4OVH,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+442.525,447.525,+,103.5,103.5,Fort Chiswell - Hamilton Knob,Wythe,36.9658,-80.8983,K4XE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-07-20
+442.55,447.55,+,74.4,74.4,"Richmond - WCVE Tower (Bon Air, VA)",Chesterfield,37.5121994,-77.60109711,W4RAT,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-17
+442.575,447.575,+,100,100,Fancy Gap - Pops Peak,Carroll,36.647421,-80.6789347,K4IL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-16
+442.575,447.575,+,100,CSQ,Jonesville,Lee,36.68769836,-83.12249756,AJ4G,OPEN,On-Air,Analog/analog,,,4896,,,On-Air,2020-12-15
+442.575,447.575,+,79.7,79.7,Fredericksburg - SRMC,Spotsylvania,38.21962546,-77.49493436,AE4ML,OPEN,On-Air,P25/analog,293,,,,,On-Air,2022-07-13
+442.6,447.6,+,136.5,,Lynchburg - Candlers Mountain,Campbell,37.34889984,-79.16819763,N3OG,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-08-15
+442.6,447.6,+,141.3,,Winchester,Frederick,39.19319916,-78.37149811,NM4CC,OPEN,On-Air,YSF/analog,,767104,,,,On-Air,2021-08-10
+442.6,447.6,+,114.8,,Roanoke - Poor Mountain,Roanoke,37.19889832,-80.15059662,K4ARO,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-04-05
+442.625,447.625,+,103.5,103.5,Max Meadows - Hamiltons Knob,Wythe,36.96580124,-80.89830017,K4IJ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-07-14
+442.65,447.65,+,100,100,Bedford - Apple Orchard Mtn,Botetourt,37.51750183,-79.51049805,WA1ZMS,OPEN,Off-Air,DMR/analog,1,,,,,Off-Air,2024-10-17
+442.6875,447.6875,+,,,Petersburg,(independent),37.1483,-77.3493,WA4FC,OPEN,On-Air,DMR,1,,,,,On-Air,2023-01-09
+442.7,447.7,+,,,Heathsville - WCNV-FM Tower,Northumberland,37.906111,-76.485556,WX4EMC,OPEN,Unknown,DMR,1,,,,,Unknown,2022-04-18
+442.7,447.7,+,167.9,CSQ,Roanoke - Poor Mountain,Roanoke,37.19763,-80.15226,W7CP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-01-04
+442.725,447.725,+,107.2,,Front Royal - High Knob Mountain,Warren,38.91820145,-78.19439697,K4QJZ,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2022-10-02
+442.75,447.75,+,107.2,,Roanoke - Mill Mountain,Roanoke,37.24489975,-79.93229675,W4KZK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-09
+442.825,447.825,+,100,,Smithfield - Isle of Wight Courthouse,Isle of Wight,36.90890121,-76.70359802,WT4RA,OPEN,On-Air,YSF/analog,,88373,,,Wide area,On-Air,2024-09-07
+442.85,447.85,+,79.7,79.7,Fredericksburg,(independent),38.30319977,-77.46050262,AE4ML,OPEN,On-Air,P25/analog,293,,,,,On-Air,2019-11-08
+442.9,447.9,+,100,,Newport News,(independent),37.08710098,-76.47299957,W4MT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-27
+442.925,447.925,+,107.2,107.2,Bent Mountain - Slings Gap,Roanoke,37.161026,-80.078671,W4KZK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-13
+442.95,447.95,+,131.8,,Norfolk - Downtown,(independent),36.86399841,-76.29360199,W4VB,OPEN,On-Air,Analog/analog,,311763,,,,On-Air,2022-07-13
+442.975,447.975,+,,,Abingdon - Brummley Mtn,Washington,36.82509995,-82.07900238,KB8KSP,OPEN,Unknown,Analog/analog,,,,,,Unknown,2015-07-18
+443,448,+,88.5,,Reston,Fairfax,38.96960068,-77.38610077,N2LEE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-05-31
+443,448,+,103.5,103.5,Damascus - White Top Mountain,Grayson,36.63370132,-81.78369904,KM4X,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2018-08-25
+443.0625,448.0625,+,,,Tysons Corner,Fairfax,38.9187222,-77.2310925,N3QEM,OPEN,On-Air,DMR,1,,,,,On-Air,2020-12-20
+443.1,448.1,+,,,Alexandria,(independent),38.81380081,-77.08519745,N3JLT,OPEN,On-Air,DMR,1,,,,,On-Air,2024-08-16
+443.1125,448.1125,+,,,South Boston - Sentara Halifax Reg Hospital,Halifax,36.71276394,-78.91380227,K4DJQ,OPEN,On-Air,DMR,1,,,,,On-Air,2021-05-07
+443.15,448.15,+,,,Staunton - Buffalo Gap,Augusta,38.1874342,-79.2394479,KF4UCI,OPEN,On-Air,DMR,1,,,,,On-Air,2022-12-29
+443.1625,448.1625,+,,,Blue Mountain - WAIW Tower,Warren,38.955917,-78.024139,N8RAT,OPEN,Unknown,DMR,1,,,,,Unknown,2024-02-28
+443.2,448.2,+,114.8,114.8,Arlington,Arlington,38.88000107,-77.10679626,AB4YP,OPEN,On-Air,NXDN,,,,,,On-Air,2015-11-16
+443.25,448.25,+,107.2,107.2,Banco - Fork Mountain,Madison,38.4739104,-78.4140174,WA3KOK,CLOSED,On-Air,P25/analog,293,,,,Wide area,On-Air,2022-10-02
+443.2625,448.2625,+,,,Wytheville,Wythe,36.9076508,-81.06993,K4EZ,OPEN,On-Air,DMR,1,,,,,On-Air,2020-04-15
+443.275,448.275,+,,,Fancy Gap,Carroll,36.64549688,-80.68081237,W4TAD,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-07-27
+443.3,448.3,+,136.5,136.5,Farmville - Water Tower,Cumberland,37.31439972,-78.39070129,WW4GW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-24
+443.35,448.35,+,203.5,,New Market,Page,38.64789963,-78.67140198,N4YSA,OPEN,On-Air,YSF,,,,,,On-Air,2021-07-18
+443.35,448.35,+,,,Powhatan - Fighting Creek Park Water Tower,Powhatan,37.549354,-77.927285,N4POW,OPEN,On-Air,DMR,1,,,,,On-Air,2023-01-06
+443.375,448.375,+,103.5,103.5,Independence - Buck Mtn,Grayson,36.62229919,-81.15090179,W4TOW,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-07-01
+443.4375,448.4375,+,,,Gum Springs,Goochland,37.794139,-77.931733,K2VIZ,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2024-10-20
+443.5,448.5,+,110.9,110.9,Manassas,(independent),38.75090027,-77.47530365,K4GVT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-19
+443.5,448.5,+,CSQ,CSQ,Hampton - Sentara Careplex Hospital,(independent),37.05690002,-76.39029694,W4HPT,OPEN,On-Air,DMR,1,,,,,On-Air,2023-03-08
+443.5,448.5,+,D712,D712,Lynchburg - Tobacco Row Mountain,Amherst,37.54880142,-79.21040344,N4HRS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-15
+443.525,448.525,+,100,,South Hill,Mecklenburg,36.72650146,-78.12889862,KB2AHZ,OPEN,On-Air,Analog/analog,,331983,8187,,,On-Air,2019-05-17
+443.55,448.55,+,167.9,,Quantico,Prince William,38.53170013,-77.44519806,K3FBI,OPEN,On-Air,P25,,,,,,On-Air,2022-04-05
+443.5875,448.5875,+,,,Midlothian - WCVE Tower,Chesterfield,37.512199,-77.601097,W4RAT,OPEN,On-Air,DMR,1,,,,,On-Air,2023-07-14
+443.625,448.625,+,,,Springville - Oneida Peak,Tazewell,37.180197,-81.378367,WZ8E,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2022-01-21
+443.65,448.65,+,173.8,173.8,Hampton - NASA Gantry,(independent),37.10160065,-76.38929749,KG4NJA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-26
+443.65,448.65,+,107.2,107.2,Salem - Fort Lewis Mountain,Roanoke,37.308,-80.161,WB8BON,OPEN,Testing,Analog/analog,,,,517123,,Testing,2023-12-22
+443.7125,448.7125,+,,,Richmond,(independent),37.53979874,-77.43900299,W4FJ,OPEN,On-Air,DStar,,,,,,On-Air,2022-04-18
+443.7125,448.7125,+,,,Independence - Point Lookout Mountain,Grayson,36.669604,-81.161909,WZ8E,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2022-01-10
+443.75,448.75,+,77,77,Salem - 12 O Clock Knob,Roanoke,37.171,-80.0819,W4KZK,OPEN,On-Air,Analog/analog,,,,518901,,On-Air,2023-11-20
+443.775,448.775,+,100,100,Bluefield - East River Mtn,Bland,37.258878,-81.176161,WZ8E,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-05-19
+443.8,448.8,+,,,Portsmouth,(independent),36.83539963,-76.2983017,W4POX,OPEN,On-Air,YSF,,,,,,On-Air,2021-05-30
+443.8,448.8,+,,,Bedford - Apple Orchard Mountain,Botetourt,37.51710129,-79.50959778,WA1ZMS,OPEN,Unknown,DMR,1,,,,Wide area,Unknown,2022-03-03
+443.8,448.8,+,146.2,146.2,Gordonsville - Gibson Mountain,Orange,38.18579865,-78.15450287,W4CUL,OPEN,On-Air,YSF/analog,,300136,,,,On-Air,2018-12-15
+443.825,448.825,+,100,CSQ,Surry,Surry,37.123209,-76.867594,WT4EN,OPEN,On-Air,DMR/analog,1,,,,,On-Air,2024-09-07
+443.85,448.85,+,79.7,79.7,Fredericksburg - Chancellor Landfill,Spotsylvania,38.27230072,-77.54329681,K4TS,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2021-07-17
+443.875,448.875,+,100,,Pearisburg - Dismal Peak,Giles,37.3265112,-80.7350711,WE3J,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-13
+443.9,448.9,+,151.4,,Stanardsville - Snow Mountain,Greene,38.3103981,-78.53530121,AA4DH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-01-22
+443.925,448.925,+,100,100,South Boston,Halifax,36.699156,-78.908583,NM4V,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-08-08
+443.9375,448.9375,+,,,Fancy Gap,Carroll,36.64780045,-80.68779755,WX4F,OPEN,On-Air,DMR,1,,,,,On-Air,2022-06-28
+444,449,+,162.2,162.2,Chesapeake - Greenbriar,(independent),36.75260162,-76.22979736,W4CAR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-05-26
+444,449,+,107.2,,Paint Bank - Potts Mountain,Craig,37.5669819,-80.1930274,KF4YLM,OPEN,On-Air,DMR,9,,,,,On-Air,2024-05-06
+444.075,449.075,+,136.5,136.5,Norton - High Knob,Wise,36.9333992,-82.6289978,KM4OKT,OPEN,On-Air,DMR/analog,15,,,,,On-Air,2020-11-28
+444.1,449.1,+,131.8,131.8,Staunton - Elliott Knob,Augusta,38.1651001,-79.31400299,KG4HOT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-07-16
+444.1,449.1,+,136.5,136.5,Fancy Gap,Carroll,36.65000153,-80.68000031,WA4LOY,OPEN,On-Air,Analog/analog,,364254,8082,,,On-Air,2020-05-28
+444.1,449.1,+,,,Williamsburg,James City,37.27069855,-76.70749664,KB4ZIN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-10-01
+444.15,449.15,+,100,100,Fancy Gap,Carroll,36.65000153,-80.68000031,WX4F,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-07-27
+444.15,449.15,+,77,77,Linden,Fauquier,38.90859985,-78.07769775,N3UHD,OPEN,On-Air,Analog/analog,,481682,,,,On-Air,2022-07-03
+444.15,449.15,+,100,CSQ,Lexington - Rocky Mountain,Rockbridge,37.79529953,-79.18070221,W4ROC,OPEN,On-Air,YSF,,,,,,On-Air,2020-05-17
+444.175,449.175,+,D712,D712,Roanoke - Poor Mountain,Roanoke,37.1864,-80.1623,N4HRS,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-02-21
+444.2,449.2,+,123,123,Staunton - Johnson St hill,Augusta,38.1481,-79.0868,KG4TIH,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-14
+444.2125,449.2125,+,,,Hampton - City Hall,(independent),37.02880096,-76.34320068,W4HPT,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+444.2125,449.2125,+,,,Roanoke - Poor Mountain,Roanoke,37.2294354,-80.0886396,N4HRS,OPEN,On-Air,DMR,9,,,,,On-Air,2024-05-06
+444.25,449.25,+,151.4,151.4,Charlottesville - Martha Jefferson Hospital,Albemarle,38.02270126,-78.44400024,WA4TFZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-23
+444.25,449.25,+,100,CSQ,Gore,Frederick,39.26399994,-78.33190155,KM4OGQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-03-18
+444.25,449.25,+,,,Pearisburg - Bald Knob,Giles,37.35,-80.5375,KD4ADL,OPEN,On-Air,DMR,9,,,,Wide area,On-Air,2023-11-27
+444.275,449.275,+,100,100,Wallops Island - Water Tower,Accomack,37.93709946,-75.47440338,W4WFF,OPEN,On-Air,DMR,1,,,,,On-Air,2021-09-04
+444.275,449.275,+,103.5,103.5,Prince George - South Point Business Park,Prince George,37.20100021,-77.27809906,KG4YJB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2015-10-04
+444.275,449.275,+,103.5,,Roanoke - Hospital,Roanoke,37.26620102,-79.93969727,N4HRS,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-04-15
+444.3,449.3,+,,156.7,Accomac,Accomack,37.72060013,-75.67040253,K4BW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-09-04
+444.3,449.3,+,141.3,141.3,Berryville,Clarke,39.189737,-78.020965,KC4RCR,OPEN,On-Air,Analog/analog,,527721,,58830,,On-Air,2023-10-09
+444.325,449.325,+,,,Farmville - Leigh Mountain,Prince Edward,37.20489883,-78.35800171,N4HRS,OPEN,On-Air,DMR,9,,,,,On-Air,2021-05-08
+444.325,449.325,+,103.5,103.5,Wytheville - Sand Mountain,Wythe,36.74089813,-80.72229767,K4EZ,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-12-18
+444.375,449.375,+,D712,D712,Covington - Warm Springs Mountain,Bath,37.9192009,-79.85420227,N4HRS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-13
+444.4,449.4,+,107.2,107.2,New Castle - Sinking Creek Mountain,Craig,37.4421,-80.1788,KF4YLM,OPEN,On-Air,YSF/analog,293,,,,,On-Air,2022-05-27
+444.4,449.4,+,151.4,,Gordonsville,Orange,38.13740158,-78.18779755,KF4UCI,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-07-25
+444.4375,449.4375,+,136.5,136.5,Wintergreen - Wintergreen Resort,Nelson,37.91730118,-78.94709778,KF4UCI,OPEN,On-Air,YSF/analog,1293,,,,,On-Air,2024-06-05
+444.45,449.45,+,79.7,79.7,Stafford,Stafford,38.467458,-77.460679,WS4VA,OPEN,On-Air,YSF,,,,,,On-Air,2022-06-13
+444.475,449.475,+,74.4,74.4,Norfolk - Fire Station 10,(independent),36.8567009,-76.23190308,W4VB,OPEN,Testing,Analog/analog,,,,,,Testing,2022-06-18
+444.475,449.475,+,,,Roanoke - Tinker Mountain,Roanoke,37.37329865,-79.92690277,N4HRS,OPEN,On-Air,DMR,9,,,,,On-Air,2021-05-08
+444.5,449.5,+,136.5,136.5,Lynchburg - Tobacco Row Mountain,Amherst,37.56549835,-79.19029999,K4CQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-31
+444.5,449.5,+,,,Honaker - Big A Mountain,Russell,37.05199814,-82.03620148,KD4JTK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-03-12
+444.55,449.55,+,100,,Hampton - Executive Towers,(independent),37.0463066,-76.3971886,W4QR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-10-09
+444.55,449.55,+,88.5,,Arlington,Arlington,38.88000107,-77.10679626,K4AF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+444.55,449.55,+,146.2,146.2,Winchester - North Mountain,Frederick,39.20000076,-78.35790253,KG4Y,OPEN,On-Air,YSF,,,,,,On-Air,2022-01-02
+444.55,449.55,+,136.5,136.5,Wintergreen - Wintergreen Resort,Nelson,37.916561,-78.955,WW4GW,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-06-16
+444.6,449.6,+,107.2,,Alexandria,(independent),38.83470154,-77.09770203,W4HFH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-23
+444.6,449.6,+,103.5,,Pulaski - Peak Knob,Pulaski,37.024565,-80.7461804,N4VL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-05-01
+444.6,449.6,+,131.8,,Harrisonburg - Massanutten Peak,Rockingham,38.3917624,-78.7707399,K4MRA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-01-18
+444.6,449.6,+,79.7,,Yorktown,York,37.161014,-76.41332,KN4KV,OPEN,On-Air,DMR,1,,,,,On-Air,2021-03-27
+444.6125,449.6125,+,,,Beaverdam,Hanover,37.94120026,-77.65440369,WA4FC,OPEN,On-Air,DMR,1,,,,,On-Air,2024-01-12
+444.625,449.625,+,100,100,South Boston,Halifax,36.699156,-78.908583,NM4V,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-08-15
+444.65,449.65,+,203.5,203.5,Gum Spring,Goochland,37.79414301,-77.93201899,N4GEC,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-05-07
+444.65,449.65,+,107.2,,Blacksburg - Brush Mountain,Montgomery,37.26330185,-80.46520233,N4NRV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-27
+444.6625,449.6625,+,,,Harrisonburg,Rockingham,38.44960022,-78.86889648,K4JK,OPEN,On-Air,DMR,1,,,,,On-Air,2018-02-08
+444.675,449.675,+,,,Pearisburg - Dismal Peak,Giles,37.247401,-80.855458,N4HRS,OPEN,On-Air,DMR,9,,,,Wide area,On-Air,2021-05-08
+444.7,449.7,+,100,100,Williamsburg - I-64 @ Exit 242,(independent),37.26010132,-76.64589691,WC4R,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-01-12
+444.7,449.7,+,,,Vesta - Lover's Leap,Patrick,36.7177329,-80.3226365,N4HRS,OPEN,On-Air,DMR,9,,,,Wide area,On-Air,2021-05-08
+444.7,449.7,+,103.5,103.5,Gate City,Scott,36.64429855,-82.54180145,K4GV,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-11-09
+444.75,449.75,+,173.8,173.8,Millwood,Clarke,39.07009888,-78.03759766,K4IAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-09-04
+444.75,449.75,+,100,,Chantilly - Dulles Airport,Loudoun,38.95339966,-77.4477005,K4IAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-10-17
+444.775,449.775,+,151.4,,Waynesboro - Bear Den Mountain,Augusta,38.06399918,-78.80400085,KF4UCI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2019-05-11
+444.775,449.775,+,,,Roanoke - Poor Mountain,Roanoke,37.19763,-80.15226,W5CUI,OPEN,On-Air,DMR,1,,,,,On-Air,2024-04-14
+444.7875,449.7875,+,,,South Hill,Mecklenburg,36.72650146,-78.12889862,K4MJO,OPEN,On-Air,DMR,1,,,,,On-Air,2021-04-11
+444.8,449.8,+,203.5,203.5,Oilville,Goochland,37.70843334,-77.77173495,KB4MIC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-07
+444.85,449.85,+,,,Woodbridge - Potomac Mills,Prince William,38.65819931,-77.24970245,K4IAD,,On-Air,Analog/analog,,,,,,On-Air,2016-02-03
+444.85,449.85,+,107.2,,Salem - Sugar Loaf Mountain,Roanoke,37.23759842,-80.04119873,W4KZK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-09
+444.875,449.875,+,,,Martinsville - Chestnut Knob,Henry,36.61375,-79.91725,N4HRS,OPEN,On-Air,DMR,9,,,,,On-Air,2024-05-26
+444.88,449.88,+,,,Wallops Island - Water Tower,Accomack,37.93709946,-75.47440338,W4WFF,OPEN,Unknown,DMR,1,,,,,Unknown,2021-02-19
+444.9,449.9,+,127.3,127.3,Woodbridge,Prince William,38.68569946,-77.31610107,W4IY,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-03-27
+444.9125,449.9125,+,,,Charlottesville ,(independent),38.02930069,-78.47669983,WA4FC,OPEN,On-Air,DMR,1,,,,,On-Air,2023-01-09
+444.925,449.925,+,77,77,Salem - Ft Lewis Mtn,Roanoke,37.30879974,-80.16000366,WB8BON,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2024-03-22
+444.925,449.925,+,107.2,107.2,Roanoke - Tinker Mtn,Roanoke,37.26039886,-79.59570313,WB8BON,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-09
+444.925,449.925,+,100,,"Abingdon - Brumley Mountain, VA",Washington,36.8296,-82.0794,KM4HDM,OPEN,Testing,Analog/analog,,,,,,Testing,2024-04-05
+444.9375,449.9375,+,151.4,,Wintergreen,Nelson,37.88489914,-78.89949799,KF4UCI,OPEN,Unknown,YSF/analog,,,,,,Unknown,2024-06-05
+444.95,449.95,+,141.3,CSQ,Virginia Beach - Virginia Beach Town Center,(independent),36.84159851,-76.13580322,W4KXV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-21
+444.95,449.95,+,136.5,136.5,Lynchburg - Tobacco Row Mountain,Amherst,37.5638,-79.1933,WD4KQI,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2022-08-30
+444.95,449.95,+,110.9,,Buckingham,Buckingham,37.56169891,-78.86260223,KF4UCI,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-05-13
+444.95,449.95,+,103.5,103.5,Clinchco - Hale Mountain,Dickenson,37.16120148,-82.35990143,KK4RID,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-08-09
+444.975,449.975,+,74.4,,Petersburg,(independent),37.22790146,-77.40190125,WA4FC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-12-10
+444.975,449.975,+,103.5,103.5,Pearisburg - Dismal Peak,Giles,37.24739838,-80.85630035,KD4BNQ,OPEN,On-Air,YSF/analog,1,,,,,On-Air,2024-03-22
+444.9875,449.9875,+,,,Charlottesville - Carters Mountain,Albemarle,37.9828,-78.4833,KF4UCI,OPEN,On-Air,DMR,1,,,,,On-Air,2023-01-09
+447.025,442.025,-,77,77,Tysons Corner,Fairfax,38.91870117,-77.23110199,NV4FM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-07-24
+447.275,442.275,-,,,Stafford,Stafford,38.467458,-77.460679,WS4VA,OPEN,On-Air,DStar,,,,,Wide area,On-Air,2022-03-21
+447.575,442.575,+,,,Parksley,Accomack,37.8021958,-75.6613156,KD4NFI,OPEN,Unknown,DMR,1,,,,,Unknown,2023-12-10
+447.625,442.625,-,107.2,107.2,Falls Church,(independent),38.87296,-77.160115,W4AVA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-26
+447.675,442.675,-,,,Ashburn,Loudoun,39.0405914,-77.5118144,KO4NCX,OPEN,On-Air,DMR,1,,,,,On-Air,2021-03-07
+447.775,442.775,-,107.2,,Antioch - Bull Run Mountain,Prince William,38.88610077,-77.69599915,WA3KOK,CLOSED,On-Air,P25/analog,293,,,,,On-Air,2022-10-02
+447.875,442.875,-,,,Spotsylvania,Spotsylvania,38.1977005,-77.58820343,N2XHZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2018-01-22
+447.9,442.9,-,100,100,Ashburn,Loudoun,39.0416795,-77.474419,KQ4CI,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-07-03
+448.035,443.035,-,,,Tysons Corner,Fairfax,38.90530014,-77.21600342,NV4FM,OPEN,On-Air,DStar,,,,,,On-Air,2022-03-20
+448.225,443.225,-,77,77,Haymarket - Bull Run Mountain,Prince William,38.90370178,-77.66169739,W4BRM,OPEN,On-Air,YSF/analog,,522456,,27021,,On-Air,2020-11-12
+448.325,443.325,-,,,Haymarket - Bull Run Mountain,Prince William,38.92219925,-77.66249847,W4BRM,OPEN,On-Air,DMR,6,,,,,On-Air,2021-07-01
+448.375,443.375,-,CSQ,67,Fairfax - Fair Oaks Hospital,(independent),38.8844986,-77.37870026,K4XY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-07-03
+448.475,443.475,-,79.7,CSQ,King George,King George,38.282893,-77.197483,K4GVA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-26
+448.625,443.625,-,107.2,,Arlington,Arlington,38.88000107,-77.10679626,W4AVA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-23
+448.675,443.675,-,100,,Burke,Fairfax,38.70429993,-77.22779846,WA3TOL,OPEN,Unknown,Analog/analog,,,,,,Unknown,2019-02-09
+448.775,443.775,-,146.2,146.2,Winchester - Great North Mountain,Frederick,39.21319962,-78.34819794,W4RKC,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-05-18
+448.825,443.825,-,77,,Ashburn,Loudoun,39.04140091,-77.48100281,KI4AD,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-07-03
+449.025,444.025,-,156.7,,Haymarket,Prince William,38.81209946,-77.63639832,N3AUY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-29
+449.325,444.325,-,151.4,,Arlington,Arlington,38.88000107,-77.10679626,W4WVP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-04-11
+449.375,444.375,-,,,Alexandria,(independent),38.8048355,-77.0469214,KA4GFY,OPEN,Testing,Analog,,,,,,Testing,2024-01-12
+449.925,444.925,-,,,Bluemont - Mt Weather,Loudoun,39.11119843,-77.83390045,N3JLT,OPEN,On-Air,DMR,1,,,,,On-Air,2020-11-23
+223.52,223.52,x,141.3,,Amissville,Culpeper,38.67967,-77.91654,KI4EKI,OPEN,On-Air,Analog,,175627,,,,On-Air,2024-11-01
+224.06,222.46,-,,,Arlington,Arlington,38.88000107,-77.10679626,WA4HIS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-12
+224.1,222.5,-,77,77,Fairfax,Fairfax,38.85749817,-77.3628006,NV4FM,OPEN,On-Air,Analog/analog,,515615,,,,On-Air,2021-08-01
+224.16,222.56,-,,,Blue Mountain,Warren,38.96260071,-78.03919983,KR4DO,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-04-05
+224.18,222.58,-,103.5,103.5,Norfolk - Harbor Front Park,(independent),36.84562,-76.28962,KD4FIG,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-01-02
+224.18,222.58,-,100,,Bedford - Apple Orchard Mtn,Botetourt,37.51708221,-79.51031494,WA1ZMS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-02-02
+224.18,222.58,-,146.2,,Gordonsville - Gibson Mountain,Orange,38.13740158,-78.18779755,K3VB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-01-12
+224.22,222.62,-,136.5,136.5,Covington - Bald Knob,Bath,37.55,-79.51,KG4HOT,OPEN,On-Air,Analog/analog,,,,47046,,On-Air,2023-03-16
+224.24,222.64,-,114.8,,Fancy Gap,Carroll,36.645,-80.681,W4WAU,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-04-15
+224.26,222.66,-,114.8,,Spotsylvania,Spotsylvania,38.1979096,-77.5877652,WX4EMC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-01-12
+224.28,222.68,-,100,100,Blue Mountain - WAIW Tower,Warren,38.955917,-78.024139,N8RAT,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-05-18
+224.3,222.7,-,131.8,131.8,Staunton - Elliot Knob,Augusta,38.16540146,-79.31390381,KG4HOT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-13
+224.4,222.8,-,131.8,131.8,Norfolk - Downtown,(independent),36.86399841,-76.29360199,W4VB,OPEN,Unknown,Analog/analog,,311763,,,,Unknown,2019-05-17
+224.4,222.8,-,136.5,,Wintergreen - Wintergreen Resort,Nelson,37.91730118,-78.94709778,WW4GW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-10-17
+224.4,222.8,-,77,,Haymarket - Bull Run Mountain,Prince William,38.90370178,-77.66169739,W4BRM,OPEN,On-Air,Analog/analog,,,,28204,,On-Air,2019-02-22
+224.42,222.82,-,74.4,74.4,Richmond - WTVR-TV Tower,Richmond,37.56629944,-77.47599792,KG4MRA,OPEN,On-Air,Analog/analog,,,,27125,,On-Air,2021-11-09
+224.42,222.82,-,,,Wise - High Knob Mt,Wise,36.9333992,-82.6289978,WB4NKM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-12-30
+224.44,226.04,+,123,,Bluefield - Oneida Peak,Tazewell,37.25260162,-81.27120209,N8FWL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2015-08-14
+224.46,222.86,-,,,Gainesville,Prince William,38.79570007,-77.61389923,W4LAM,CLOSED,Off-Air,Analog/analog,,,,,,Off-Air,2014-01-26
+224.5,222.9,-,141.3,141.3,Basye - Great North Mountain,Shenandoah,38.81435,-78.7646228,KK4PH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-05-06
+224.52,222.92,-,74.4,,Richmond - Downtown,(independent),37.50289917,-77.43019867,WA4FC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-02-19
+224.56,222.96,-,114.8,,Wytheville - Walker Mountain,Wythe,37.05920029,-81.09829712,W4WAU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-07-15
+224.58,223.58,-,136.5,136.5,Charlottesville,Albemarle,38.02930069,-78.47669983,KG4HOT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-05-10
+224.6,223,-,151.4,151.4,Charlottesville - Trump Winery,Albemarle,37.9516988,-78.507019,KG4FJC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-07-27
+224.6,223,-,107.2,,Fancy Gap,Carroll,36.64549688,-80.68081237,W4TAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-16
+224.62,223.02,-,,,Arlington,Arlington,38.88000107,-77.10679626,WA4EKJ,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2022-12-12
+224.62,223.02,-,114.8,,Roanoke - Poor Mountain,Roanoke,37.19763,-80.15226,W4WAU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-07-15
+224.66,223.06,-,100,,Manassas,Prince William,38.782646,-77.505924,W4OVH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-02
+224.74,223.14,-,131.8,131.8,Fredericksburg,Stafford,38.33250046,-77.3946991,N8RAT,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-01-19
+224.76,223.16,-,151.4,,Covesville - Heard Mountain,Albemarle,37.92990112,-78.73940277,WA4TFZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-23
+224.78,223.18,-,,,Woodbridge,Prince William,38.68569946,-77.31610107,W4IY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-27
+224.8,223.2,-,151.4,,Ivy,Albemarle,38.082132,-78.607446,K4BRW,OPEN,On-Air,Analog/analog,,,,58653,,On-Air,2023-03-27
+224.82,223.22,-,107.2,,Alexandria,(independent),38.83470154,-77.09770203,W4HFH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-12
+224.86,223.26,-,103.5,,Pearisburg - Dismal Peak,Giles,37.24739838,-80.85630035,KQ4Q,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-03-13
+224.9,223.3,-,146.2,CSQ,Winchester - North Mountain,Frederick,39.20000076,-78.35790253,KG4Y,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-01-02
+224.9,223.3,-,131.8,,Schuyler,Nelson,37.793507,-78.690948,KG4HOT,OPEN,On-Air,Analog/analog,,,,47151,,On-Air,2021-05-06
+224.92,223.32,-,123,123,Chatham,Pittsylvania,36.8256943,-79.3980806,W4FYB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-11-12
+145.11,144.51,-,127.3,,Richmond,(independent),37.54999924,-77.46019745,WA4MAS,OPEN,Unknown,YSF/analog,,,,,,Unknown,2020-11-11
+145.11,144.51,-,156.7,156.7,Pungoteague,Accomack,37.62630081,-75.81079865,N4TIK,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-09-04
+145.11,144.51,-,74.4,74.4,Hanover,Hanover,37.715079,-77.365031,N8ELS,OPEN,Testing,Analog/analog,,,,,,Testing,2024-08-02
+145.11,144.51,-,100,,Vesta,Patrick,36.71680069,-80.35780334,NJ1K,OPEN,On-Air,Analog/analog,,,4114,,,On-Air,2024-07-08
+145.13,144.53,-,107.2,107.2,Haymarket,Prince William,38.81209946,-77.63639832,N3KL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-05
+145.13,144.53,-,131.8,131.8,Harrisonburg - Massanutten Peak,Rockingham,38.39319992,-78.77020264,K4MRA,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2022-01-18
+145.15,144.55,-,103.5,103.5,Chesapeake,(independent),36.721806,-76.300472,K4AMG,OPEN,On-Air,YSF/analog,,503402,,,,On-Air,2022-12-14
+145.15,144.55,-,107.2,107.2,Arlington,Arlington,38.88000107,-77.10679626,WB4MJF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-27
+145.15,144.55,-,100,,Pulaski - Peak Knob,Pulaski,37.024565,-80.7461804,N3ZE,Open,Off-Air,Analog/analog,,,,,,Off-Air,2023-06-16
+145.16,144.56,-,,,Williamsburg,James City,37.2415,-76.7167,KO4VQE,OPEN,Unknown,DStar,,,,,,Unknown,2023-08-17
+145.16375,144.56375,-,,,Herndon,Fairfax,38.96900177,-77.38529968,N3QEM,OPEN,On-Air,DMR,13,,,,,On-Air,2022-09-08
+145.17,144.57,-,123,123,Staunton - Johnson St hill,Augusta,38.1480169,-79.0846404,KG4TIH,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-14
+145.17,144.57,-,151.4,151.4,Palmyra,Fluvanna,37.86100006,-78.26329803,K4MSR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2017-04-05
+145.17,144.57,-,107.2,CSQ,Bassett,Henry,36.75930023,-79.99030304,W4RPS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-18
+145.17625,144.57625,-,,,Vienna,Fairfax,38.90019989,-77.26709747,N3QEM,OPEN,On-Air,DMR,13,,,,,On-Air,2022-08-24
+145.185,144.585,-,103.5,103.5,Leesburg,Loudoun,39.07157982,-77.48168857,WB6EFW,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-01-03
+145.2,144.6,-,,,Hampton - City Hall,(independent),37.02880096,-76.34320068,W4HPT,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+145.2,144.6,-,100,100,Virginia Beach,(independent),36.85290146,-75.97799683,KE4HGP,OPEN,Unknown,YSF/analog,,,,,,Unknown,2023-04-26
+145.21,144.61,-,100,100,Gloucester Courthouse - Walter Reed Hospital,Gloucester,37.41970062,-76.54129791,WN4HRT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-26
+145.21,144.61,-,110.9,110.9,Blacksburg - Virginia Tech,Montgomery,37.2813,-80.4428,KD4ADL,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-07-03
+145.21,144.61,-,141.3,,Front Royal - High Knob Mountain,Warren,38.88679886,-78.11170197,K4QJZ,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-01-19
+145.21,144.61,-,100,100,"Abingdon - Brumley Mountain, VA",Washington,36.8296,-82.0794,KM4HDM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-13
+145.23,144.63,-,100,100,Newport News,(independent),37.033,-76.459,W4MT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-08-04
+145.24,144.64,-,,,Mechanicsville,Hanover,37.715,-77.365,W4SVR,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-10-10
+145.25,144.65,-,100,,Bluefield - East River Mtn,Bland,37.258878,-81.176161,KD8XK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-01-09
+145.25,144.65,-,88.5,,Dahlgren - US-301 Potomac River Bridge,King George,38.3585569,-77.0070208,N3PZZ,OPEN,Testing,Analog/analog,,,,,,Testing,2023-03-12
+145.27,144.67,-,136.5,,Lynchburg - Tobacco Row Mountain,Amherst,37.548814,-79.210353,KF4YLM,OPEN,On-Air,Analog/analog,,871755,,,,On-Air,2020-12-01
+145.27,144.67,-,103.5,103.5,Hillsville,Carroll,36.76259995,-80.73480225,N4DN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-01-14
+145.27,144.67,-,79.7,79.7,Stafford,Stafford,38.40511,-77.54411,WS4VA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-09
+145.29,144.69,-,131.8,131.8,Waynesboro - Bear Den Mountain,Augusta,38.0666008,-78.79869843,KC8MTV,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-08-06
+145.29,144.69,-,100,,Pembroke - Butt Mountain,Giles,37.3725009,-80.7461213,WZ8E,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-22
+145.3,144.7,-,,,Newport News,(independent),37.08710098,-76.47299957,W4MT,OPEN,On-Air,DStar,,,,,,On-Air,2022-11-26
+145.3,144.7,-,,,Fredericksburg - Cosner&#039;s Corner,Spotsylvania,38.2182,-77.4951,WX4EMC,OPEN,On-Air,DMR,1,,,,,On-Air,2022-08-02
+145.31,144.71,-,77,77,Ashburn - Dulles Airport,Loudoun,38.95339966,-77.4477005,KI4AD,OPEN,Unknown,YSF/analog,,,,,,Unknown,2021-04-27
+145.32,144.72,-,,,Stafford,Stafford,38.467458,-77.460679,WS4VA,OPEN,On-Air,DStar,,,,,Wide area,On-Air,2022-10-05
+145.33,144.73,-,131.8,131.8,Norfolk - Downtown,(independent),36.86399841,-76.29360199,W4VB,OPEN,On-Air,Analog/analog,,311763,,,,On-Air,2022-07-13
+145.33,144.73,-,77,77,Fancy Gap,Carroll,36.66600037,-80.69229889,N4VRD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2016-12-19
+145.33,144.73,-,88.5,,King George - Dalhgren Naval Support Facility,King George,38.3431015,-77.03500366,N3PZZ,OPEN,Testing,Analog/analog,,,,,,Testing,2021-08-31
+145.34,144.74,-,,,Tysons Corner,Fairfax,38.90530014,-77.21600342,NV4FM,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+145.35,144.75,-,103.5,,Wytheville,(independent),36.9508567,-81.0838321,K4EZ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2023-07-24
+145.35,144.75,-,100,100,South Boston,Halifax,36.69869995,-78.90139771,NM4V,OPEN,On-Air,YSF/analog,,368277,,,,On-Air,2024-06-16
+145.37,144.77,-,186.2,,Forest,Bedford,37.3637534,-79.289749,KC4RBA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-27
+145.37,144.77,-,100,100,Gloucester Courthouse -  WXGM radio tower,Gloucester,37.410139,-76.547444,W4HZL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-26
+145.37,144.77,-,103.5,103.5,Honaker - 98 new garden Estimates in Honaker va,Russell,36.99769974,-82.0082016,KD4JTK,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2022-04-05
+145.38,144.78,-,,,Alexandria,(independent),38.82220078,-77.10540009,W4HFH,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+145.39,144.79,-,74.4,74.4,Colonial Heights,Chesterfield,37.24399948,-77.41030121,KE4EUE,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-09-16
+145.39,144.79,-,146.2,146.2,Winchester - North Mountain,Frederick,39.19990158,-78.35800171,KG4Y,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-05-21
+145.39,144.79,-,107.2,107.2,Roanoke - Poor Mountain,Roanoke,37.19889,-80.15056,N4MGQ,OPEN,On-Air,Analog/analog,,,,505502,,On-Air,2023-04-04
+145.41,144.81,-,100,100,Williamsburg,(independent),37.2592,-76.6761,WC4R,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2024-01-12
+145.41,144.81,-,100,,Madison,Madison,38.38040161,-78.25749969,AF4CY,OPEN,On-Air,Analog/analog,,,,,,On-Air,2018-11-29
+145.41,144.81,-,103.5,,Roanoke - Poor Mountain,Roanoke,37.1989,-80.1506,N4VL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-24
+145.43,144.83,-,74.4,74.4,Richmond - WTVR-TV Tower,(independent),37.56629944,-77.47609711,KG4MRA,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2021-11-04
+145.45,144.85,-,,,Kilmarnock - Fire station,Lancaster,37.71080017,-76.38269806,W4GSF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-27
+145.45,144.85,-,136.5,136.5,Montebello - Whetstone Ridge Ranger Station,Nelson,37.8698242,-79.146582,WW4GW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-16
+145.45,144.85,-,,,Haymarket,Prince William,38.81209946,-77.63639832,W4BRM,OPEN,On-Air,DStar,,,,,,On-Air,2022-05-04
+145.47,144.87,-,107.2,,Arlington,Arlington,38.88000107,-77.10679626,W4WVP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-10-22
+145.47,144.87,-,151.4,151.4,Greene - Flat Top Mountain,Greene,38.31200027,-78.45249939,AA4DH,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-06-05
+145.47,144.87,-,82.5,,South Hill - Community Mem Hospital,Mecklenburg,36.77997208,-78.25102997,W4CMH,OPEN,Off-Air,Analog/analog,,,,,,Off-Air,2024-04-19
+145.49,144.89,-,100,,Hampton,(independent),37.0298996,-76.34519958,KE4UP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-21
+145.49,144.89,-,136.5,136.5,Amherst - Buffalo Ridge,Amherst,37.53287,-78.97474,K4CQ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-15
+145.49,144.89,-,131.8,131.8,Pennington Gap - Airport,Lee,36.746581,-83.039039,KE4PVL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-02-25
+145.58,145.58,x,88.5,,Williamsburg,York,37.14120102,-76.45149994,K4TJS,OPEN,Unknown,Analog/analog,,,4358,,,Unknown,2024-10-29
+146.61,146.01,-,162.2,,Chesapeake - Bowers Hill,(independent),36.77035609,-76.37879,W4CAR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-02-06
+146.61,146.01,-,136.5,CSQ,Lynchburg - Candlers Mountain,Campbell,37.34889984,-79.16819763,N3OG,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-29
+146.625,146.025,-,107.2,107.2,Falls Church,Arlington,38.87296,-77.160115,W4AVA,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-01-28
+146.625,146.025,-,131.8,,"New Market - Appalachian Trail, Luray Caverns",Page,38.60078,-78.63255,N4YSA,OPEN,On-Air,YSF/analog,,,,,Wide area,On-Air,2023-11-05
+146.625,146.025,-,100,100,Jarrett,Sussex,36.81430054,-77.46829987,N4LLE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-08-14
+146.64,146.04,-,107.2,107.2,Salem - Fort Lewis Mountain,Roanoke,37.30833321,-80.1613884,WB8BON,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-12-20
+146.64,146.04,-,103.5,103.5,Marion,Smyth,36.83480072,-81.51480103,KM4X,OPEN,On-Air,YSF/analog,,,,,,On-Air,2019-11-28
+146.655,146.055,-,141.3,141.3,Alexandria - George Washington National Masonic Memorial,(independent),38.80749893,-77.06590271,K4US,OPEN,On-Air,YSF/analog,,,,,,On-Air,2023-04-04
+146.655,146.055,-,,,Lynchburg - Tobacco Row Mtn,Amherst,37.56529999,-79.19059753,WA4RTS,OPEN,On-Air,DMR,1,,,,,On-Air,2019-12-13
+146.67,146.07,-,173.8,,Hampton - NASA Gantry,(independent),37.10160065,-76.38929749,KG4NJA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-08
+146.67,146.07,-,114.8,114.8,Stanley - Shenandoah National Park,Page,38.57778,-78.50889,W4GSB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-07-02
+146.685,146.085,-,100,100,Bedford - Apple Orchard Mtn,Botetourt,37.51750183,-79.51049805,WA1ZMS,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-04-04
+146.685,146.085,-,110.9,,Tysons Corner,Fairfax,38.9236,-77.20606,K4HTA,OPEN,On-Air,Analog/analog,,633487,,,Wide area,On-Air,2022-10-06
+146.7,146.1,-,131.8,,Staunton,Augusta,38.14960098,-79.07170105,KD4WWF,OPEN,On-Air,Analog/analog,,,,,,On-Air,2019-03-25
+146.7,146.1,-,77,,Leesburg,Loudoun,39.11569977,-77.56359863,WA4TXE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-03-11
+146.7,146.1,-,107.2,,Danville - White Oak Mtn,Pittsylvania,36.742484,-79.384103,K4AU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-31
+146.715,146.115,-,,,Walkerton,King & Queen,37.72610092,-77.02310181,W4TTL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-01-02
+146.715,146.115,-,,,Blacksburg - Brush Mountain,Montgomery,37.26350021,-80.46549988,W9KIC,OPEN,On-Air,Analog/analog,,959136,,,,On-Air,2022-12-24
+146.715,146.115,-,146.2,,Mount Jackson,Shenandoah,38.7458992,-78.64219666,KB6VAA,OPEN,On-Air,Analog/analog,,208517,,,,On-Air,2022-01-19
+146.73,146.13,-,100,,Hampton - Executive Towers,(independent),37.0298996,-76.34519958,W4QR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-09-08
+146.73,146.13,-,151.4,,Charlottesville - Carters Mountain,Albemarle,37.97900009,-78.48970032,K4DND,OPEN,On-Air,Analog/analog,,,,,,On-Air,2019-08-14
+146.745,146.145,-,131.8,,Franklin,(independent),36.67770004,-76.92250061,N4WFU,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-10-07
+146.745,146.145,-,107.2,107.2,King George,King George,38.28290176,-77.19730377,W4KGC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-05-26
+146.745,146.145,-,107.2,107.2,Roanoke - Poor Mountain,Roanoke,37.18999863,-80.15830231,K1GG,OPEN,On-Air,Analog/analog,,871755,,,Wide area,On-Air,2022-08-26
+146.76,145.16,-,151.4,,Covesville - Heard Mountain,Albemarle,37.92990112,-78.73940277,WA4TFZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-23
+146.76,146.16,-,118.8,118.8,Williamsburg,James City,37.27069855,-76.70749664,KB4ZIN,OPEN,On-Air,Analog/analog,,,,53935,,On-Air,2023-04-16
+146.775,146.175,-,103.5,103.5,Hillsville,Carroll,36.6472,-80.6792,K4EZ,OPEN,On-Air,Analog/analog,,146895,4027,,Wide area,On-Air,2023-12-18
+146.775,146.175,-,110.9,110.9,King George - Locust Point,King George,38.3035,-77.08666667,KC8VFN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-09-08
+146.79,146.19,-,100,100,Suffolk - Old WTKR-TV Analog Tower,(independent),36.80899811,-76.50309753,N4SD,OPEN,On-Air,YSF/analog,,,8134,,,On-Air,2023-04-17
+146.79,146.19,-,77,77,Fairfax,Fairfax,38.85749817,-77.3628006,NV4FM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-09-17
+146.805,146.205,-,107.2,,Covington - Warm Springs Mountain,Bath,37.99369812,-79.80750275,W4COV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-09-24
+146.82,146.22,-,162.2,162.2,Chesapeake - Greenbriar,(independent),36.75260162,-76.22979736,W4CAR,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-07-13
+146.82,146.22,-,146.2,146.2,Winchester - Great North Mountain,Frederick,39.2112999,-78.3483963,W4RKC,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-07-24
+146.82,146.22,-,136.5,136.5,Wintergreen - Wintergreen Resort,Nelson,37.9165556,-78.9548889,WW4GW,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-06-16
+146.82,146.22,-,103.5,103.5,Gate City - Clinch Mountain,Scott,36.63790131,-82.58100128,K4GV,OPEN,On-Air,YSF,,838250,,,,On-Air,2020-10-23
+146.835,146.235,-,,,Grundy - Big A Mtn,Buchanan,37.2778886,-82.0990223,KN4QOH,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-04-16
+146.835,146.235,-,100,,Kilmarnock,Lancaster,37.72380066,-76.39109802,W4NNK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-04-02
+146.85,146.25,-,100,100,Portsmouth - Naval Hospital,(independent),36.84389877,-76.30500031,W4POX,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-11-11
+146.85,146.25,-,131.8,131.8,Staunton - Hermitage,(independent),38.15729904,-78.95220184,WA4ZBP,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-05
+146.865,146.265,-,,,Manassas - NOVEC Communications Tower,Prince William,38.7826004,-77.5062027,W4OVH,OPEN,On-Air,DStar,,,,,,On-Air,2022-10-05
+146.865,146.265,-,103.5,103.5,Max Meadows - Hamilton's Knob,Wythe,36.965731,-80.898373,K4IJ,OPEN,Testing,Analog/analog,,,,,,Testing,2023-04-10
+146.88,146.28,-,74.4,74.4,"Richmond - WCVE Tower (Bon Air, VA)",Chesterfield,37.5121994,-77.60109711,W4RAT,OPEN,On-Air,YSF/analog,,,,,,On-Air,2024-01-22
+146.88,146.28,-,107.2,107.2,Salem - 12 O'Clock Knob,Roanoke,37.252637,-80.08232,KF4RGH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-12
+146.895,146.295,-,141.3,CSQ,Virginia Beach,(independent),36.84260178,-76.13339996,W4KXV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-06-30
+146.895,146.295,-,151.4,151.4,Crozet - Bucks Elbow Mountain,Albemarle,38.104599,-78.74479675,WA4TFZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-25
+146.895,146.295,-,100,100,Independence - Point Lookout,Grayson,36.6223478,-81.150923,WZ8E,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2023-06-17
+146.895,146.295,-,110.9,110.9,Montross,Westmoreland,38.116173,-76.8884504,KF4AH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-03-09
+146.91,146.31,-,77,77,Tysons Corner,Fairfax,38.91870117,-77.23110199,NV4FM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-03-17
+146.91,146.31,-,77,77,Mountain Lake - Bald Knob,Giles,37.35010147,-80.53720093,KD4BNQ,OPEN,On-Air,YSF/analog,1,,,,,On-Air,2024-03-22
+146.925,146.325,-,,,Hampton,(independent),37.0298996,-76.34519958,K4TM,OPEN,Unknown,Analog/analog,,,,,,Unknown,2020-06-15
+146.925,146.325,-,151.4,151.4,Charlottesville - Martha Jefferson Hospital,Albemarle,38.02280045,-78.44400024,WA4TFZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-05-23
+146.94,146.34,-,74.4,74.4,Richmond - James Monroe Building,(independent),37.53699875,-77.42939758,KN4SKI,OPEN,On-Air,YSF/analog,,,,,,On-Air,2019-04-02
+146.94,146.34,-,107.2,107.2,Roanoke - Long Ridge,Roanoke,37.23764,-80.04092,W4KDN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-03-18
+146.955,146.355,-,136.5,136.5,Farmville - Water Tower,Cumberland,37.31439972,-78.39080048,WW4GW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-16
+146.955,146.355,-,100,100,Bluefield - Oneida Peak,Tazewell,37.16579819,-81.41359711,WZ8E,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-05-19
+146.97,146.37,-,141.3,,Virginia Beach - Fire Station #10,(independent),36.8144989,-76.18830109,W4KXV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-27
+146.97,146.37,-,91.5,91.5,Covington - Warm Springs Mountain,Bath,37.99369812,-79.80750275,KF4YLM,OPEN,On-Air,Analog/analog,,871755,,,Wide area,On-Air,2019-03-28
+146.97,146.37,-,,,Fancy Gap - Beamers Knob,Carroll,36.6757419,-80.744205,W4BAD,OPEN,Unknown,Analog/analog,,1908,,52523,,Unknown,2020-10-17
+146.97,146.37,-,100,,Manassas,Prince William,38.783558,-77.522406,W4OVH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-13
+146.985,146.385,-,,,Petersburg,(independent),37.22790146,-77.40190125,KE4SCS,OPEN,On-Air,YSF/analog,,,,,,On-Air,2020-12-09
+146.985,146.385,-,107.2,107.2,Roanoke - Poor Mountain,Roanoke,37.19760132,-80.15229797,W4CA,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2022-07-20
+147,146.4,-,100,100,Newport News - Riverside Regional Medical Center,(independent),37.06370163,-76.48329926,WN4HRT,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-08-27
+147,147.6,+,77,77,South Hill,Mecklenburg,36.73720169,-78.2071991,KB2AHZ,OPEN,On-Air,Analog/analog,,331983,8187,,,On-Air,2020-09-24
+147.015,147.615,+,103.5,103.5,Wytheville - Walker Mountain,Bland,37.02474,-81.1728,K4EZ,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-04-06
+147.015,147.615,+,79.7,79.7,Fredericksburg - Chancellor Landfill,Spotsylvania,38.27529907,-77.54239655,K4TS,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-10
+147.015,146.415,-,88.5,88.5,Norton,Wise,36.9333992,-82.6289978,WB4NKM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-16
+147.03,147.63,+,79.7,79.7,Madison - Blakey Ridge,Madison,38.42796091,-78.33751785,KX4O,OPEN,On-Air,Analog/analog,,120408,,58692,,On-Air,2024-11-10
+147.03,147.63,+,100,CSQ,Surry,Surry,37.123449,-76.867479,WT4EN,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-11-01
+147.045,147.645,+,131.8,131.8,Staunton - Elliott Knob,Augusta,38.1651001,-79.31400299,KG4HOT,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2021-05-18
+147.045,147.645,+,103.5,103.5,Hillsville - VA,Carroll,36.7412667,-80.722097,N4DN,OPEN,On-Air,Analog/analog,,146895,4027,,Wide area,On-Air,2023-12-18
+147.06,146.46,-,82.5,,South Boston,Halifax,36.64602661,-78.75783539,KF4AGO,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-12
+147.06,147.66,+,74.4,74.4,Beaverdam - Ashland Berry Farm,Hanover,37.8614006,-77.53970337,KD4RJN,OPEN,On-Air,YSF/analog,,,,,,On-Air,2020-11-12
+147.075,147.675,+,100,,Norfolk - Norfolk Waterfront,(independent),36.85079956,-76.2858963,KC2HTT,OPEN,On-Air,YSF/analog,,,,,,On-Air,2021-09-08
+147.075,147.675,+,131.8,131.8,Waynesboro  - Bear Den Mountain,Augusta,38.06480026,-78.8042984,W4PNT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-03-03
+147.075,147.675,+,D712,D712,Christiansburg,Montgomery,37.103333,-80.376667,KD4ADL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-01-23
+147.075,147.675,+,100,100,"Honaker - Big A Mountain, VA",Russell,37.05210114,-82.03549957,KM4HDM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-19
+147.09,146.49,-,,,Hopewell,(independent),37.3042984,-77.28720093,KG4DCX,OPEN,Unknown,YSF,,,,,,Unknown,2022-09-10
+147.09,147.69,+,103.5,,Galax,Carroll,36.7093135,-80.0783278,W4BRC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-06-09
+147.105,147.705,+,136.5,136.5,Bedford - Thaxton Mountain,Bedford,37.3144989,-79.63400269,WD4KQI,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-07-20
+147.105,147.705,+,118.8,118.8,Williamsburg,James City,37.27069855,-76.70749664,KB4ZIN,OPEN,On-Air,Analog/analog,,,4943,,,On-Air,2021-08-27
+147.105,147.705,+,100,,Tazewell - Morris Knob,Tazewell,37.0495592,-81.6167799,WZ8E,Open,Testing,Analog/analog,,,,,,Testing,2023-06-16
+147.12,147.72,+,107.2,,Martinsville - Chestnut Knob,Henry,36.61375,-79.91727,K4MVA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-06-20
+147.12,147.72,+,146.2,146.2,Gordonsville - Gibson Mountain,Orange,38.18579865,-78.15450287,W4CUL,OPEN,On-Air,P25/analog,293,300136,,,,On-Air,2019-03-25
+147.135,147.735,+,107.2,107.2,Richmond - VCU Main Hospital,(independent),37.5393569,-77.4307255,KC4VDZ,OPEN,Unknown,Analog/analog,,,,,,Unknown,2022-03-11
+147.135,147.735,+,100,100,Pearisburg - Dismal Peak,Giles,37.24739838,-80.85630035,KD4BNQ,OPEN,On-Air,YSF/analog,1,,,,,On-Air,2024-03-22
+147.15,147.75,+,88.5,88.5,Clinchco,Dickenson,37.16120148,-82.35990143,KB4RFN,OPEN,Unknown,Analog/analog,,,,,,Unknown,2021-11-27
+147.165,147.765,+,100,,Newport News,(independent),37.0727005,-76.49680328,W4CM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-27
+147.165,147.765,+,167.9,167.9,Warrenton,Fauquier,38.71350098,-77.79530334,W4VA,OPEN,On-Air,Analog/analog,,883791,,46212,,On-Air,2023-01-10
+147.165,147.765,+,,,Salem - Fort Lewis Mountain,Roanoke,37.3083,-80.1613,WB4EOT,OPEN,On-Air,DMR,1,,,,Wide area,On-Air,2023-12-07
+147.18,147.78,+,100,,Monterey - Monterey Mountain,Highland,38.42095,-79.60616,WD4ITN,OPEN,On-Air,Analog/analog,,955383,,,,On-Air,2024-03-18
+147.18,147.78,+,103.5,103.5,Radford - Cloyd's Mountain,Pulaski,37.17869949,-80.7276001,N4NRV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-18
+147.195,147.795,+,136.5,136.5,Lynchburg - Tobacco Row Mountain,Amherst,37.56549835,-79.19029999,WA4RTS,OPEN,On-Air,Analog/analog,,808227,,,,On-Air,2022-07-31
+147.195,147.795,+,100,100,Smithfield - Isle of Wight Courthouse,Isle of Wight,36.90890121,-76.70359802,WT4RA,OPEN,On-Air,YSF/analog,,88373,,,Wide area,On-Air,2022-12-23
+147.21,147.81,+,,,Craddockville,Accomack,37.58179855,-75.8687973,N4TIK,OPEN,On-Air,DMR,1,,,,,On-Air,2019-12-13
+147.21,147.81,+,110.9,,Falls Church - Inova Fairfax Hospital,Fairfax,38.857778,-77.2275,W4CIA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-07-02
+147.21,147.81,+,114.8,114.8,Floyd,Floyd,36.91650009,-80.31620026,W4FCV,OPEN,On-Air,YSF/analog,,,,,,On-Air,2019-12-10
+147.225,147.825,+,,,Hampton,(independent),37.0298996,-76.34519958,KA4VXR,OPEN,On-Air,DMR,1,,,,,On-Air,2021-10-16
+147.225,147.825,+,131.8,,Harrisonburg - Little North Mountain,Rockingham,38.56409836,-78.9496994,K4KLH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-04-05
+147.24,147.84,+,107.2,107.2,Elk Creek - Iron Mtn,Grayson,36.74829865,-81.32920074,N4MGQ,OPEN,On-Air,Analog/analog,,,,505503,,On-Air,2022-04-24
+147.24,147.84,+,74.4,74.4,South Hill,Mecklenburg,36.7261,-78.1397,WA4FC,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-12-08
+147.24,147.84,+,107.2,107.2,Woodbridge,Prince William,38.68569946,-77.31610107,W4IY,OPEN,On-Air,Analog/analog,,615284,,52951,,On-Air,2022-03-27
+147.255,147.855,+,,,Richmond,(independent),37.53979874,-77.43900299,W4FJ,OPEN,On-Air,DStar,,,,,,On-Air,2024-11-27
+147.255,147.855,+,156.7,156.7,Accomac,Accomack,37.72060013,-75.67040253,K4BW,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-03-22
+147.255,147.855,+,,,Honaker,Russell,36.99769974,-82.0082016,KD4JTK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2023-06-16
+147.27,147.87,+,203.5,203.5,Gum Spring,Goochland,37.79354,-77.93022,WB4IKL,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-05-07
+147.285,147.885,+,107.2,,Martinsville - Chestnut Knob,Henry,36.61349869,-79.91790009,K4MVA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-08-31
+147.3,147.9,+,100,100,Virginia Beach,(independent),36.85290146,-75.97799683,WN4HRT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-01-30
+147.3,147.9,+,146.2,,Bluemont - Blue Ridge,Loudoun,39.08473,-77.86013,N3JLT,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-24
+147.3,147.9,+,110.9,110.9,Lexington - Rocky Mountain,Rockbridge,37.7958,-79.1808,KD4ADL,OPEN,Testing,Analog/analog,,,,,Wide area,Testing,2023-05-20
+147.315,147.915,+,107.2,107.2,Alexandria,(independent),38.83470154,-77.09770203,W4HFH,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-12-01
+147.315,147.915,+,,,Grundy,Buchanan,37.291393,-82.104088,K4NRR,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-03-30
+147.315,147.915,+,74.4,74.4,Powhatan - County watertower,Powhatan,37.549371,-77.927279,N4POW,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-05-06
+147.315,147.915,+,131.8,131.8,Basye - Great North Mountain,Shenandoah,38.8168869,-78.76332855,K4MRA,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-01-19
+147.33,147.93,+,203.5,,Chantilly - Dulles Airport,Loudoun,38.95059967,-77.44809723,K4IAD,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-07-02
+147.33,147.93,+,100,,Heathsville,Northumberland,37.91559982,-76.47280121,W4NNK,OPEN,On-Air,Analog/analog,,,,,,On-Air,2021-08-27
+147.33,147.93,+,CSQ,CSQ,Lexington - Rocky Mountain,Rockbridge,37.79529953,-79.18070221,W4ROC,OPEN,On-Air,YSF/analog,,,,,,On-Air,2022-07-31
+147.345,147.945,+,156.7,156.7,Eastville,Northampton,37.3526001,-75.94580078,KN4GE,OPEN,On-Air,Analog/analog,,,,,,On-Air,2019-11-13
+147.345,147.945,+,167.9,,Quantico,Prince William,38.53170013,-77.44519806,K3FBI,OPEN,On-Air,P25/analog,,,,,,On-Air,2022-04-05
+147.345,147.945,+,103.5,103.5,Abingdon,Washington,36.70980072,-81.97730255,NM4L,OPEN,On-Air,Analog/analog,,,,,,On-Air,2016-06-29
+147.36,147.96,-,,,Stuarts Draft - Wilda,Augusta,38.0087242,-79.1033045,KB4OLM,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-06
+147.36,147.96,+,CSQ,CSQ,Chester,Chesterfield,37.35680008,-77.4417038,KA4CBB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-09-28
+147.37,147.97,+,131.8,131.8,Reston - The Atrium,Fairfax,38.95169,-77.33322,W8RBJ,OPEN,On-Air,Analog/analog,,590694,,,,On-Air,2023-10-09
+147.375,147.975,+,131.8,131.8,Norfolk,(independent),36.91429901,-76.25299835,W4VB,OPEN,On-Air,Analog/analog,,,,,,On-Air,2022-12-14
+147.375,147.975,+,100,CSQ,Pearisburg - Giles County Court House,Giles,37.32649994,-80.73509979,W4NRV,OPEN,On-Air,Analog/analog,,,,,,On-Air,2015-09-09
+147.375,147.975,+,79.7,79.7,Stafford,Stafford,38.467458,-77.460679,WS4VA,OPEN,On-Air,Analog/analog,,,,,,On-Air,2020-04-21
+147.39,147.99,+,74.4,74.4,North Chesterfield,(independent),37.18809891,-77.35749817,WA4FC,OPEN,On-Air,Analog/analog,,,,,Wide area,On-Air,2024-10-24
+147.42,147.42,x,103.5,,Wytheville - Big Walker Mountain,Wythe,37.0316599,-81.14684,N4VL,OPEN,On-Air,Analog/analog,,,,,,On-Air,2024-04-27

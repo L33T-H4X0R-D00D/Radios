@@ -1,0 +1,1 @@
+dpinst.exe /lm
